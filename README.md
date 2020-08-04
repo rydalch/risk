@@ -29,6 +29,11 @@ https://iuhealth.org/about-our-system/vendor-relations
 VSAQ: Interactive questionnaire application to assess the security programs of third parties.
 https://github.com/google/vsaq
 
+### Supply Chain Specific 
+
+Health Industry Cybersecurity Supply Chain Risk Management Guide (HIC-SCRiM)
+https://healthsectorcouncil.org/hic-scrim/
+
 ## Data Visualization
 
 Datavisualization book
