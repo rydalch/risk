@@ -1,6 +1,7 @@
 # Risk Management Resources
 Free tools and resources for effectively managing, assessing, and communicating information security risk.
 
+
 SIRA Information Risk Management Body of Knowledge
 https://github.com/societyinforisk/irmbok
 
@@ -9,6 +10,14 @@ https://www.societyinforisk.org/reading-list
 
 Calibration Training
 http://sethrylan.org/bayesian/calibrate.html
+
+## Organizations
+https://www.fairinstitute.org/
+
+https://www.societyinforisk.org/reading-list
+
+https://hubbardresearch.com/
+
 
 ## Tools
 
