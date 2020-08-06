@@ -4,6 +4,9 @@ Free tools and resources for effectively managing, assessing, and communicating 
 SIRA Information Risk Management Body of Knowledge
 https://github.com/societyinforisk/irmbok
 
+Reading List
+https://www.societyinforisk.org/reading-list
+
 Calibration Training
 http://sethrylan.org/bayesian/calibrate.html
 
