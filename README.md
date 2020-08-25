@@ -13,6 +13,8 @@ http://sethrylan.org/bayesian/calibrate.html
 
 ## Organizations
 https://www.fairinstitute.org/
+FAIR - ISO/IEC 27005 Cookbook
+https://publications.opengroup.org/c103
 
 https://www.societyinforisk.org/reading-list
 
@@ -135,4 +137,8 @@ https://cmmiinstitute.com/products/cybermaturity
 Exploit Prediction Scoring System (EPSS)
 https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_sasha_romanosky.pdf
 https://www.first.org/epss/
+
+### TBD
+Goal-Question-Indicator-Metric (GQIM) how to measure the things that matter to your business.
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=451184
 
