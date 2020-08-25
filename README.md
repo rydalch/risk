@@ -11,7 +11,7 @@ https://www.societyinforisk.org/reading-list
 Calibration Training
 http://sethrylan.org/bayesian/calibrate.html
 
-## Organizations
+## Risk Focused Organizations
 https://www.fairinstitute.org/
 FAIR - ISO/IEC 27005 Cookbook
 https://publications.opengroup.org/c103
@@ -21,6 +21,9 @@ https://www.societyinforisk.org/reading-list
 https://hubbardresearch.com/
 
 https://www.cyentia.com/
+
+ISACA IT Risk Framework
+
 
 
 ## Tools
@@ -142,3 +145,12 @@ https://www.first.org/epss/
 Goal-Question-Indicator-Metric (GQIM) how to measure the things that matter to your business.
 https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=451184
 
+ISACA Glossary
+https://www.isaca.org/resources/glossary#glossi
+
+Bayesian Probability
+https://www.youtube.com/watch?v=GShNozmkYlQ
+https://www.amazon.com/Theory-That-Would-Not-Die/dp/0300188226/ref=sr_1_2?dchild=1&qid=1598383597&refinements=p_27%3ASharon+Bertsch+Mcgrayne&s=books&sr=1-2&text=Sharon+Bertsch+Mcgrayne
+
+Using the FAIR Model to Measure Inherent Risk
+https://www.fairinstitute.org/blog/using-the-fair-model-to-measure-inherent-risk
