@@ -131,3 +131,8 @@ Security Metrics book
 CMMI
 https://cmmiinstitute.com/products/cybermaturity
 
+### Exploit Prediction - Vulnerability Remediation
+Exploit Prediction Scoring System (EPSS)
+https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_sasha_romanosky.pdf
+https://www.first.org/epss/
+
