@@ -23,8 +23,14 @@ https://www.cyentia.com/
 
 ## Tools
 
-evaluator: open source quantitative risk analysis toolkit
+Tidyrisk: Tidyrisk is a collection of R packages for performing quantitative risk management using the OpenFAIR framework
+https://tidyrisk.org/
+
+* evaluator: open source quantitative risk analysis toolkit
 https://github.com/davidski/evaluator
+
+* collector: R package for conducting interviews with subject matter experts (SMEs) on the risk scenarios facing an organization
+https://github.com/davidski/collector
 
 unsuR: Risk assessment with R
 https://github.com/cneskey/unsuR
@@ -34,6 +40,13 @@ https://github.com/Netflix-Skunkworks/riskquant
 
 VSAQ: Interactive questionnaire application to assess the security programs of third parties.
 https://github.com/google/vsaq
+
+Future
+https://saga.ws/
+
+### Not Maintained???
+FAIRTool: Factor Analysis of Information Risk (FAIR) tool developed in R
+https://github.com/zugo01/FAIRTool
 
 ## Vendor or Third-party Risk Management Resources
 
@@ -47,6 +60,21 @@ https://github.com/google/vsaq
 
 Health Industry Cybersecurity Supply Chain Risk Management Guide (HIC-SCRiM)
 https://healthsectorcouncil.org/hic-scrim/
+
+## Threat Analysis
+What threat actors should we consider? What are their common attack techniques?
+
+Intel Threat Agent Library (2007)
+https://www.google.com/search?q=Intel+Threat+Agent+Library
+Spreadsheet version
+https://docs.google.com/spreadsheets/d/1qKne0RNOnwW3IJWgO70yiJOz1VebqT3M9I8Ci4ROEFQ/edit#gid=0
+
+MITRE ATT&CK
+https://attack.mitre.org/
+
+### Insider Threat
+CMU Common Sense Guide to Prevention and Detection of Insider Threats
+https://resources.sei.cmu.edu/asset_files/WhitePaper/2009_019_001_50285.pdf
 
 ## Data Analysis
 
@@ -69,6 +97,8 @@ https://github.com/robdmc/pandashells
 Internet Data Download: Download and normalize data about the internet from various sources
 https://github.com/hdm/inetdata
 
+### Learning Python Data Analysis
+
 ### Learning R
 
 A brief introduction to R including sample code and walkthroughs.
@@ -76,4 +106,28 @@ https://github.com/BillPetti/R-Crash-Course
 
 rmarkdown: Dynamic Documents for R
 https://github.com/rstudio/rmarkdown
+
+## Other Risk Management Resources
+### Control Frameworks
+NIST Cybersecurity Framework
+https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
+
+CIS Controls
+https://www.cisecurity.org/cybersecurity-tools/
+
+COBIT
+https://www.isaca.org/resources/cobit
+
+ISO 27001 and family
+https://www.iso.org/isoiec-27001-information-security.html
+
+### Metrics
+http://www.securitymetrics.org/
+Security Metrics book
+
+
+
+### Maturity Models
+CMMI
+https://cmmiinstitute.com/products/cybermaturity
 
