@@ -47,6 +47,7 @@ https://github.com/cneskey/unsuR
 
 riskquant: A library to assist in quantifying risk.
 https://github.com/Netflix-Skunkworks/riskquant
+https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968
 
 VSAQ: Interactive questionnaire application to assess the security programs of third parties.
 https://github.com/google/vsaq
