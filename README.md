@@ -28,6 +28,9 @@ ISACA IT Risk Framework
 
 ## Tools
 
+Binary Risk Assessment: BRA is a short series of simple questions that help you discuss a risk in a structured manner.
+https://binary.protect.io/
+
 Tidyrisk: Tidyrisk is a collection of R packages for performing quantitative risk management using the OpenFAIR framework
 https://tidyrisk.org/
 
