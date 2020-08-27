@@ -181,6 +181,9 @@ https://www.amazon.com/Theory-That-Would-Not-Die/dp/0300188226/ref=sr_1_2?dchild
 Using the FAIR Model to Measure Inherent Risk
 https://www.fairinstitute.org/blog/using-the-fair-model-to-measure-inherent-risk
 
-####Vulnerabilities
+Breach Notification Laws
+https://www.bakerlaw.com/BreachNotificationLawMap
+
+#### Vulnerabilities
 CVE https://cve.mitre.org
 
