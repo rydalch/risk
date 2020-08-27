@@ -159,6 +159,13 @@ https://www.mckinsey.com/business-functions/risk/our-insights/making-risk-manage
 Cybersecurity: Boardroom Implications
 https://www.nacdonline.org/insights/publications.cfm?ItemNumber=8486
 
+Managing Cyber Risk in a Digital Age - COSO
+https://www.coso.org/Documents/COSO-Deloitte-Managing-Cyber-Risk-in-a-Digital-Age.pdf
+
+Enterprise Risk Management
+https://www.coso.org/Pages/erm.aspx
+
+
 ### TBD
 Goal-Question-Indicator-Metric (GQIM) how to measure the things that matter to your business.
 https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=451184
