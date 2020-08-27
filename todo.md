@@ -21,3 +21,8 @@ https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=91013
 
 CERT® Resilience Management Model (CERT®-RMM) V1.1: NIST Special Publication 800-66 Crosswalk
 https://resources.sei.cmu.edu/library/author.cfm?authorID=68647
+
+### Society for Risk Analysis
+https://www.sra.org/
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C24&q=On+the+ontological+status+of+the+concept+of+risk&btnG=
+https://www.youtube.com/watch?v=pR2Fvi4kpxQ
