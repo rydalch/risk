@@ -1,3 +1,9 @@
+### Lens Model
+
+### Data Sources
+IRIS
+DBIR
+
 ### SIRACon 2012 - Tony Cox - Improving Risk Management Comparisons and Decisions
 https://vimeo.com/53151221
 
@@ -26,3 +32,6 @@ https://resources.sei.cmu.edu/library/author.cfm?authorID=68647
 https://www.sra.org/
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C24&q=On+the+ontological+status+of+the+concept+of+risk&btnG=
 https://www.youtube.com/watch?v=pR2Fvi4kpxQ
+
+### Thomas Scoring System
+https://exploringpossibilityspace.blogspot.com/2014/02/thomas-scoring-system.html
