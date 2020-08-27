@@ -17,3 +17,7 @@ If risk assessments are done to facilitate informed decision making, doesn't it 
 ### CMU
 A Taxonomy of Operational Cyber Security Risks Version 2
 https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=91013
+
+
+CERT® Resilience Management Model (CERT®-RMM) V1.1: NIST Special Publication 800-66 Crosswalk
+https://resources.sei.cmu.edu/library/author.cfm?authorID=68647
