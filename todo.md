@@ -11,3 +11,9 @@ https://www.cyentia.com/iris/
 Information Risk Insights Study (IRIS 20/20) - Cyentia Institute
 The IRIS 20/20 measures the frequency and cost of cyber incidents using 10 years of historical data to clear the fog of FUD from information risk assessment (135 kB)
 
+### Decision Science
+If risk assessments are done to facilitate informed decision making, doesn't it make sense to better understand the science behind decision making?
+
+### CMU
+A Taxonomy of Operational Cyber Security Risks Version 2
+https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=91013
