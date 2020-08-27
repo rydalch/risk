@@ -23,6 +23,7 @@ https://hubbardresearch.com/
 https://www.cyentia.com/
 
 ISACA IT Risk Framework
+https://www.isaca.org/resources/it-risk
 
 NCSC 
 https://www.ncsc.gov.uk/collection/risk-management-collection/essential-topics/variety-risk-information
@@ -148,6 +149,16 @@ Exploit Prediction Scoring System (EPSS)
 https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_sasha_romanosky.pdf
 https://www.first.org/epss/
 
+Kenna Security Research
+https://resources.kennasecurity.com/research-reports-2
+
+### Guidance for Boards
+Making risk management a value-added function in the boardroom
+https://www.mckinsey.com/business-functions/risk/our-insights/making-risk-management-a-value-added-function-in-the-boardroom
+
+Cybersecurity: Boardroom Implications
+https://www.nacdonline.org/insights/publications.cfm?ItemNumber=8486
+
 ### TBD
 Goal-Question-Indicator-Metric (GQIM) how to measure the things that matter to your business.
 https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=451184
@@ -162,4 +173,6 @@ https://www.amazon.com/Theory-That-Would-Not-Die/dp/0300188226/ref=sr_1_2?dchild
 Using the FAIR Model to Measure Inherent Risk
 https://www.fairinstitute.org/blog/using-the-fair-model-to-measure-inherent-risk
 
+####Vulnerabilities
+CVE https://cve.mitre.org
 
