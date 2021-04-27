@@ -5,6 +5,9 @@ Free tools and resources for effectively managing, assessing, and communicating 
 SIRA Information Risk Management Body of Knowledge
 https://github.com/societyinforisk/irmbok
 
+Simple Risk (for engineers)
+https://magoo.github.io/simple-risk/reading.html
+
 Reading List
 https://www.societyinforisk.org/reading-list
 
