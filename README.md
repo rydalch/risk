@@ -60,6 +60,7 @@ https://jpsturgis.shinyapps.io/vcdb_explorer/
 
 Future
 https://saga.ws/
+Open Source GRC: https://www.simplerisk.com
 
 ### Not Maintained???
 FAIRTool: Factor Analysis of Information Risk (FAIR) tool developed in R
