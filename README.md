@@ -152,7 +152,9 @@ https://www.iso.org/isoiec-27001-information-security.html
 http://www.securitymetrics.org/
 Security Metrics book
 
-
+### Research
+A system to calculate Cyber Value-at-Risk 
+https://www.sciencedirect.com/science/article/pii/S0167404821003692
 
 ### Maturity Models
 CMMI
@@ -163,8 +165,12 @@ Exploit Prediction Scoring System (EPSS)
 https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_sasha_romanosky.pdf
 https://www.first.org/epss/
 
+KNOWN EXPLOITED VULNERABILITIES CATALOG
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
 Kenna Security Research
 https://resources.kennasecurity.com/research-reports-2
+
 
 ### Guidance for Boards
 Making risk management a value-added function in the boardroom
