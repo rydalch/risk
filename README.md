@@ -99,6 +99,13 @@ https://docs.google.com/spreadsheets/d/1qKne0RNOnwW3IJWgO70yiJOz1VebqT3M9I8Ci4RO
 MITRE ATT&CK
 https://attack.mitre.org/
 
+### Threat Assessment Tools
+
+https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
+
+ThreatModeler
+ https://threatmodeler.com/threatmodeler-launches-free-lite-community-edition/
+
 ### Insider Threat
 CMU Common Sense Guide to Prevention and Detection of Insider Threats
 https://resources.sei.cmu.edu/asset_files/WhitePaper/2009_019_001_50285.pdf
