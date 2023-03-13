@@ -61,6 +61,9 @@ riskquant: A library to assist in quantifying risk.
 https://github.com/Netflix-Skunkworks/riskquant
 https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968
 
+CISA CSET: Ransomware readiness assessment
+https://github.com/cisagov/cset/releases/tag/v10.3.0.0
+
 VSAQ: Interactive questionnaire application to assess the security programs of third parties.
 https://github.com/google/vsaq
 
