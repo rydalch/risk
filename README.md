@@ -159,6 +159,9 @@ https://www.isaca.org/resources/cobit
 ISO 27001 and family
 https://www.iso.org/isoiec-27001-information-security.html
 
+Security Control Mappings
+https://github.com/AbeWinters/control-mappings
+
 ### Metrics
 http://www.securitymetrics.org/
 Security Metrics book
