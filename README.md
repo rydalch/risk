@@ -18,7 +18,7 @@ Reading List
 https://www.societyinforisk.org/reading-list
 
 Calibration Training
-http://sethrylan.org/bayesian/calibrate.html
+http://sethrylan.org/bayesian/
 
 ## Risk Focused Organizations
 https://www.fairinstitute.org/
@@ -73,6 +73,7 @@ https://jpsturgis.shinyapps.io/vcdb_explorer/
 
 Future
 https://saga.ws/
+
 Open Source GRC: https://www.simplerisk.com
 
 ### Not Maintained???
@@ -115,6 +116,10 @@ CMU Common Sense Guide to Prevention and Detection of Insider Threats
 https://resources.sei.cmu.edu/asset_files/WhitePaper/2009_019_001_50285.pdf
 
 ## Data Analysis
+
+### Data Sources
+How Material is That Hack?
+https://howmaterialisthathack.org/
 
 ### Data Visualization
 
