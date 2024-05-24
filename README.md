@@ -121,6 +121,12 @@ https://resources.sei.cmu.edu/asset_files/WhitePaper/2009_019_001_50285.pdf
 How Material is That Hack?
 https://howmaterialisthathack.org/
 
+DBIR
+
+Cyentia
+
+
+
 ### Data Visualization
 
 Datavisualization book
@@ -171,6 +177,12 @@ https://github.com/AbeWinters/control-mappings
 http://www.securitymetrics.org/
 Security Metrics book
 
+Maturity Assessment - FY 2023-2024 Inspector General FISMA Reporting Metrics (also referenced in Maturity Models section on this page)
+https://www.cisa.gov/sites/default/files/2023-02/Final%20FY%202023%20-%202024%20IG%20FISMA%20Reporting%20Metrics%20v1.1_0.pdf
+
+CISO Dashboard Toolkit
+https://docs.google.com/spreadsheets/d/1c-KYLP5Im_lxBkZbOED0i6OXlE_LtOiCDwDUXtCHYrs/edit#gid=1682960858 
+
 ### Research
 A system to calculate Cyber Value-at-Risk 
 https://www.sciencedirect.com/science/article/pii/S0167404821003692
@@ -178,6 +190,18 @@ https://www.sciencedirect.com/science/article/pii/S0167404821003692
 ### Maturity Models
 CMMI
 https://cmmiinstitute.com/products/cybermaturity
+
+Maturity Assessment - FY 2023-2024 Inspector General FISMA Reporting Metrics (also referenced in Metrics section on this page)
+https://www.cisa.gov/sites/default/files/2023-02/Final%20FY%202023%20-%202024%20IG%20FISMA%20Reporting%20Metrics%20v1.1_0.pdf
+
+NIST - Cybersecurity Capability Maturity Model C2M2
+https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2
+
+NIST - Program Review for Information Security Assistance PRISMA
+https://csrc.nist.gov/Projects/Program-Review-for-Information-Security-Assistance/Security-Maturity-Levels
+
+CMMC Model (??)
+https://dodcio.defense.gov/CMMC/Model/
 
 ### Exploit Prediction - Vulnerability Remediation
 Exploit Prediction Scoring System (EPSS)
@@ -197,6 +221,9 @@ https://www.mckinsey.com/business-functions/risk/our-insights/making-risk-manage
 
 Cybersecurity: Boardroom Implications
 https://www.nacdonline.org/insights/publications.cfm?ItemNumber=8486
+
+Director's Handbook on Cyber-Risk Oversight
+https://www.nacdonline.org/contentassets/4931ac5b05a84111953919eaa03a38e9/cyber-risk-oversight-handbook_webcompressed.pdf
 
 Managing Cyber Risk in a Digital Age - COSO
 https://www.coso.org/Documents/COSO-Deloitte-Managing-Cyber-Risk-in-a-Digital-Age.pdf
