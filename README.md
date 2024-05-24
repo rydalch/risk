@@ -16,6 +16,8 @@ https://magoo.github.io/simple-risk/reading.html
 
 Reading List
 https://www.societyinforisk.org/reading-list
+* https://www.themetricsmanifesto.com
+* https://www.oreilly.com/library/view/security-metrics-replacing/9780321349989/
 
 Calibration Training
 http://sethrylan.org/bayesian/
