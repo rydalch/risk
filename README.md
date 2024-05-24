@@ -180,15 +180,21 @@ https://www.iso.org/isoiec-27001-information-security.html
 Security Control Mappings
 https://github.com/AbeWinters/control-mappings
 
-### Metrics
-http://www.securitymetrics.org/
+### Metrics (Deployment (Coverage, Configuration) & Risk (Capability))
+CIS Critical Security Controls V7 Measures & Metrics
+https://www.cisecurity.org/insights/white-papers/cis-controls-v7-measures-metrics
+
 Security Metrics book
+https://www.themetricsmanifesto.com
 
 Maturity Assessment - FY 2023-2024 Inspector General FISMA Reporting Metrics (also referenced in Maturity Models section on this page)
 https://www.cisa.gov/sites/default/files/2023-02/Final%20FY%202023%20-%202024%20IG%20FISMA%20Reporting%20Metrics%20v1.1_0.pdf
 
 CISO Dashboard Toolkit
 https://docs.google.com/spreadsheets/d/1c-KYLP5Im_lxBkZbOED0i6OXlE_LtOiCDwDUXtCHYrs/edit#gid=1682960858 
+
+Older Resources - some good nuggets here but not super accessible
+http://www.securitymetrics.org/ 
 
 ### Research
 A system to calculate Cyber Value-at-Risk 
