@@ -1,58 +1,79 @@
 # Risk Management Resources
 Free tools and resources for effectively managing, assessing, and communicating information security risk.
 
-NIST
-NIST Risk Management Framework
+## NIST
+* NIST Risk Management Framework
 https://csrc.nist.gov/Projects/Risk-Management
 
-Integrating Cybersecurity and Enterprise Risk Management (ERM) - NISTIR 8286 https://csrc.nist.gov/publications/detail/nistir/8286/final
-Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight - NISTIR 8286C https://csrc.nist.gov/publications/detail/nistir/8286c/draft 
+* Integrating Cybersecurity and Enterprise Risk Management (ERM) - NISTIR 8286 https://csrc.nist.gov/publications/detail/nistir/8286/final
 
-SIRA Information Risk Management Body of Knowledge
+* Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight - NISTIR 8286C https://csrc.nist.gov/publications/detail/nistir/8286c/draft 
+
+## SIRA 
+* Information Risk Management Body of Knowledge
 https://github.com/societyinforisk/irmbok
 
-Simple Risk (for engineers)
+## Other
+* Simple Risk (for engineers)
 https://magoo.github.io/simple-risk/reading.html
 
-Reading List
+* Calibration Training
+http://sethrylan.org/bayesian/
+
+* CISA (developing)
+https://www.cisa.gov/
+
+* FAIR Framework for Effective Cyber Risk Management
+https://www.fairinstitute.org/blog/integrating-fair-models-a-unified-framework-for-cyber-risk-management
+
+
+# Reading List
 https://www.societyinforisk.org/reading-list
 * https://www.themetricsmanifesto.com
 * https://www.oreilly.com/library/view/security-metrics-replacing/9780321349989/
 
-Calibration Training
-http://sethrylan.org/bayesian/
 
-CISA (developing)
-https://www.cisa.gov/
-
-## Risk Focused Organizations
+# Risk Focused Organizations
+## FAIR
 https://www.fairinstitute.org/
-FAIR - ISO/IEC 27005 Cookbook
+
+* ISO/IEC 27005 Cookbook
 https://publications.opengroup.org/c103
 
-https://www.societyinforisk.org/reading-list
+* FAIR-CAM Standard
+https://www.fairinstitute.org/resources/fair-cam-standard-artifact-v1.0
+The FAIR Controls Analytics Model (FAIR-CAM) describes how the risk management controls landscape works. 
 
+* FAIR Cyber Risk Scenario Taxonomy (An Analyst's Guide)
+https://www.fairinstitute.org/resources/fair-cyber-risk-scenario-taxonomy
+This guide provides a structured approach to defining and refining cyber risk scenarios, ensuring that they accurately represent probable loss events.
+
+* FAIR Model Standard Artifact (V3.0)
+https://www.fairinstitute.org/resources/fair-model-standard-artifact-v3.0
+
+
+## Hubbard Research
 https://hubbardresearch.com/
 
+## Cyentia
 https://www.cyentia.com/
 
-ISACA IT Risk Framework
+## ISACA 
+IT Risk Framework
 https://www.isaca.org/resources/it-risk
 
-NCSC 
+## NCSC 
 https://www.ncsc.gov.uk/collection/risk-management-collection/essential-topics/variety-risk-information
  
-
-SRA
-RISK ANALYSIS QUALITY TEST[
+## SRA
+RISK ANALYSIS QUALITY TEST
 https://www.sra.org/resources/risk-analysis-quality-test/
 
-## Tools
-
-Binary Risk Assessment: BRA is a short series of simple questions that help you discuss a risk in a structured manner.
+# Tools
+* Binary Risk Assessment: BRA is a short series of simple questions that help you discuss a risk in a structured manner.
 https://binary.protect.io/
 
-Tidyrisk: Tidyrisk is a collection of R packages for performing quantitative risk management using the OpenFAIR framework
+* Tidyrisk: Tidyrisk is a collection of R packages for performing quantitative risk management using the OpenFAIR framework
 https://tidyrisk.org/
 
 * evaluator: open source quantitative risk analysis toolkit
@@ -61,69 +82,66 @@ https://github.com/davidski/evaluator
 * collector: R package for conducting interviews with subject matter experts (SMEs) on the risk scenarios facing an organization
 https://github.com/davidski/collector
 
-unsuR: Risk assessment with R
+* unsuR: Risk assessment with R
 https://github.com/cneskey/unsuR
 
-riskquant: A library to assist in quantifying risk.
+* riskquant: A library to assist in quantifying risk.
 https://github.com/Netflix-Skunkworks/riskquant
 https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968
 
-CISA CSET: Ransomware readiness assessment
+* CISA CSET: Ransomware readiness assessment
 https://github.com/cisagov/cset/releases/tag/v10.3.0.0
 
-VSAQ: Interactive questionnaire application to assess the security programs of third parties.
-https://github.com/google/vsaq
-
-VCDB Explorer
+* VCDB Explorer
 https://jpsturgis.shinyapps.io/vcdb_explorer/
 
-Future
-https://saga.ws/
+* SimpleRisk (Open Source GRC)
+* https://www.simplerisk.com
 
-Open Source GRC: https://www.simplerisk.com
+### Future
+https://saga.ws/
 
 ### Not Maintained???
 FAIRTool: Factor Analysis of Information Risk (FAIR) tool developed in R
 https://github.com/zugo01/FAIRTool
 
-## Vendor or Third-party Risk Management Resources
-
-IU Health Vendor Relations  Information Security Requirements
+# Vendor or Third-party Risk Management Resources
+* IU Health Vendor Relations  Information Security Requirements
 https://iuhealth.org/about-our-system/vendor-relations
 
-VSAQ: Interactive questionnaire application to assess the security programs of third parties.
+* VSAQ: Interactive questionnaire application to assess the security programs of third parties.
 https://github.com/google/vsaq
 
-### Supply Chain Specific 
 
+## Supply Chain Specific 
 Health Industry Cybersecurity Supply Chain Risk Management Guide (HIC-SCRiM)
 https://healthsectorcouncil.org/hic-scrim/
 
-## Threat Analysis
+# Threat Analysis
 What threat actors should we consider? What are their common attack techniques?
 
-Intel Threat Agent Library (2007)
+* Intel Threat Agent Library (2007)
 https://www.google.com/search?q=Intel+Threat+Agent+Library
-Spreadsheet version
+** Spreadsheet version
 https://docs.google.com/spreadsheets/d/1qKne0RNOnwW3IJWgO70yiJOz1VebqT3M9I8Ci4ROEFQ/edit#gid=0
 
-MITRE ATT&CK
+* MITRE ATT&CK
 https://attack.mitre.org/
 
-### Threat Assessment Tools
+## Threat Assessment Tools
 
 https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
 
 ThreatModeler
  https://threatmodeler.com/threatmodeler-launches-free-lite-community-edition/
 
-### Insider Threat
+## Insider Threat
 CMU Common Sense Guide to Prevention and Detection of Insider Threats
 https://resources.sei.cmu.edu/asset_files/WhitePaper/2009_019_001_50285.pdf
 
-## Data Analysis
+# Data Analysis
 
-### Data Sources
+## Data Sources
 How Material is That Hack?
 https://howmaterialisthathack.org/
 
@@ -134,7 +152,7 @@ Cyentia - IRIS Risk Retina
 [https://www.cyentia.com/](https://www.cyentia.com/services/iris-risk-retina/)
 
 
-### Data Visualization
+## Data Visualization
 
 Datavisualization book
 https://github.com/clauswilke/dataviz
@@ -145,7 +163,7 @@ https://github.com/coppeliaMLA/glasseye
 ggcal: generate a familiar calendar plot from a vector of dates and fill values.
 https://github.com/jayjacobs/ggcal
 
-### Data Processing
+## Data Processing
 
 Pandashells: Bringing the python data stack to the shell prompt
 https://github.com/robdmc/pandashells
@@ -153,9 +171,9 @@ https://github.com/robdmc/pandashells
 Internet Data Download: Download and normalize data about the internet from various sources
 https://github.com/hdm/inetdata
 
-### Learning Python Data Analysis
+## Learning Python Data Analysis
 
-### Learning R
+## Learning R
 
 A brief introduction to R including sample code and walkthroughs.
 https://github.com/BillPetti/R-Crash-Course
@@ -163,8 +181,8 @@ https://github.com/BillPetti/R-Crash-Course
 rmarkdown: Dynamic Documents for R
 https://github.com/rstudio/rmarkdown
 
-## Other Risk Management Resources
-### Control Frameworks
+# Other Risk Management Resources
+## Control Frameworks
 NIST Cybersecurity Framework
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
 
@@ -180,7 +198,7 @@ https://www.iso.org/isoiec-27001-information-security.html
 Security Control Mappings
 https://github.com/AbeWinters/control-mappings
 
-### Metrics (Deployment (Coverage, Configuration) & Risk (Capability))
+## Metrics (Deployment (Coverage, Configuration) & Risk (Capability))
 CIS Critical Security Controls V7 Measures & Metrics
 https://www.cisecurity.org/insights/white-papers/cis-controls-v7-measures-metrics
 
@@ -196,11 +214,11 @@ https://docs.google.com/spreadsheets/d/1c-KYLP5Im_lxBkZbOED0i6OXlE_LtOiCDwDUXtCH
 Older Resources - some good nuggets here but not super accessible
 http://www.securitymetrics.org/ 
 
-### Research
+## Research
 A system to calculate Cyber Value-at-Risk 
 https://www.sciencedirect.com/science/article/pii/S0167404821003692
 
-### Maturity Models
+## Maturity Models
 CMMI
 https://cmmiinstitute.com/products/cybermaturity
 
@@ -216,7 +234,7 @@ https://csrc.nist.gov/Projects/Program-Review-for-Information-Security-Assistanc
 CMMC Model (??)
 https://dodcio.defense.gov/CMMC/Model/
 
-### Exploit Prediction - Vulnerability Remediation
+## Exploit Prediction - Vulnerability Remediation
 Exploit Prediction Scoring System (EPSS)
 https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_sasha_romanosky.pdf
 https://www.first.org/epss/
