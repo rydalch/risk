@@ -7,7 +7,10 @@ https://csrc.nist.gov/Projects/Risk-Management
 
 * Integrating Cybersecurity and Enterprise Risk Management (ERM) - NISTIR 8286 https://csrc.nist.gov/publications/detail/nistir/8286/final
 
-* Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight - NISTIR 8286C https://csrc.nist.gov/publications/detail/nistir/8286c/draft 
+* Staging Cybersecurity Risks for Enterprise Risk Management and Governance Oversight - NISTIR 8286C https://csrc.nist.gov/publications/detail/nistir/8286c/draft
+
+* Small Business Information Security: The Fundamentals --> Section 2: Understanding and Managing Your Risks
+https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
 
 ## SIRA 
 * Information Risk Management Body of Knowledge
