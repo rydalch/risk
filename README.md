@@ -12,6 +12,10 @@ https://csrc.nist.gov/Projects/Risk-Management
 * Small Business Information Security: The Fundamentals --> Section 2: Understanding and Managing Your Risks
 https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.7621r1.pdf
 
+* NIST Cybersecurity Framework
+https://www.nist.gov/cyberframework
+
+
 ## SIRA 
 * Information Risk Management Body of Knowledge
 https://github.com/societyinforisk/irmbok
@@ -198,8 +202,14 @@ https://www.isaca.org/resources/cobit
 ISO 27001 and family
 https://www.iso.org/isoiec-27001-information-security.html
 
+Secure Controls Framework
+https://github.com/securecontrolsframework/securecontrolsframework
+
 Security Control Mappings
-https://github.com/AbeWinters/control-mappings
+* https://github.com/AbeWinters/control-mappings
+* https://csrc.nist.gov/projects/olir/informative-reference-catalog#/
+
+
 
 ## Metrics (Deployment (Coverage, Configuration) & Risk (Capability))
 CIS Critical Security Controls V7 Measures & Metrics
