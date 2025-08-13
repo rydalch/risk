@@ -81,13 +81,7 @@ https://www.sra.org/resources/risk-analysis-quality-test/
 https://binary.protect.io/
 
 * Tidyrisk: Tidyrisk is a collection of R packages for performing quantitative risk management using the OpenFAIR framework
-https://tidyrisk.org/
-
-* evaluator: open source quantitative risk analysis toolkit
-https://github.com/davidski/evaluator
-
-* collector: R package for conducting interviews with subject matter experts (SMEs) on the risk scenarios facing an organization
-https://github.com/davidski/collector
+https://tidyrisk.org/ (includes [evaluator](https://github.com/davidski/evaluator): open source quantitative risk analysis toolkit and [collector](https://github.com/davidski/collector): R package for conducting interviews with subject matter experts (SMEs) on the risk scenarios facing an organization
 
 * unsuR: Risk assessment with R
 https://github.com/cneskey/unsuR
@@ -295,6 +289,8 @@ https://www.fairinstitute.org/blog/using-the-fair-model-to-measure-inherent-risk
 
 Breach Notification Laws
 https://www.bakerlaw.com/BreachNotificationLawMap
+
+Key Risk Indicators vs Key Performance Indicators
 
 #### Vulnerabilities
 CVE https://cve.mitre.org
