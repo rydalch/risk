@@ -90,6 +90,9 @@ https://github.com/cneskey/unsuR
 https://github.com/Netflix-Skunkworks/riskquant
 https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968
 
+* pyfair: FAIR model written in Python to create a simple API for automating the creation of FAIR Monte Carlo risk simulations.
+https://github.com/Hive-Systems/pyfair
+
 * CISA CSET: Ransomware readiness assessment
 https://github.com/cisagov/cset/releases/tag/v10.3.0.0
 
