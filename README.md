@@ -100,7 +100,7 @@ https://github.com/cisagov/cset/releases/tag/v10.3.0.0
 https://jpsturgis.shinyapps.io/vcdb_explorer/
 
 * SimpleRisk (Open Source GRC)
-* https://www.simplerisk.com
+https://www.simplerisk.com
 
 ### Future
 https://saga.ws/
@@ -167,6 +167,10 @@ https://github.com/coppeliaMLA/glasseye
 ggcal: generate a familiar calendar plot from a vector of dates and fill values.
 https://github.com/jayjacobs/ggcal
 
+Building a Modern Dashboard with Python and Gradio
+https://towardsdatascience.com/building-a-modern-dashboard-with-python-and-gradio/
+
+
 ## Data Processing
 
 Pandashells: Bringing the python data stack to the shell prompt
@@ -175,7 +179,15 @@ https://github.com/robdmc/pandashells
 Internet Data Download: Download and normalize data about the internet from various sources
 https://github.com/hdm/inetdata
 
+
 ## Learning Python Data Analysis
+
+https://pll.harvard.edu/course/introduction-data-science-python
+
+https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/
+
+SANS Cheat Sheet: Python 3
+https://www.sans.org/blog/sans-cheat-sheet-python-3
 
 ## Learning R
 
@@ -184,6 +196,7 @@ https://github.com/BillPetti/R-Crash-Course
 
 rmarkdown: Dynamic Documents for R
 https://github.com/rstudio/rmarkdown
+
 
 # Other Risk Management Resources
 ## Control Frameworks
@@ -220,6 +233,13 @@ https://www.cisa.gov/sites/default/files/2023-02/Final%20FY%202023%20-%202024%20
 
 CISO Dashboard Toolkit
 https://docs.google.com/spreadsheets/d/1c-KYLP5Im_lxBkZbOED0i6OXlE_LtOiCDwDUXtCHYrs/edit#gid=1682960858 
+
+Key Risk Indicators (vs Key Performance Indicators)
+https://www.fairinstitute.org/blog/kris-for-cybersecurity-canaries-in-coal-mines
+
+*Examples of metrics that are good candidates for KRIs include those associated with threat community changes (such as the threat’s frequency and appetite for risk), loss potential (such as changes in legal and regulatory actions, rising rates on key response and investigation contracts, etc. are good fodder here), and changes in controls (often called Key Control Indicators, KCIs.).
+KRIs are at their best when they appear regularly in front of risk governance committees and the Board of Directors. Whatever reporting cadence your organization uses (monthly, quarterly, etc.) showing these KRIs and corresponding trending will give executives a sense of how the risk landscape for their organization has changed over time and prompt questions about the need for proactive action.*
+
 
 Older Resources - some good nuggets here but not super accessible
 http://www.securitymetrics.org/ 
@@ -293,7 +313,7 @@ https://www.fairinstitute.org/blog/using-the-fair-model-to-measure-inherent-risk
 Breach Notification Laws
 https://www.bakerlaw.com/BreachNotificationLawMap
 
-Key Risk Indicators vs Key Performance Indicators
+
 
 #### Vulnerabilities
 CVE https://cve.mitre.org
