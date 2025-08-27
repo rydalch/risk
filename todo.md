@@ -71,9 +71,26 @@ https://exploringpossibilityspace.blogspot.com/2014/02/thomas-scoring-system.htm
 
 
 # Resources - YouTube
-General Cybersecurity – Hak5, David Bombal, Black Hills InfoSec
-Bug Bounty & Ethical Hacking – The XSS Rat, InsiderPHD, NahamSec
-Certifications & Career Growth – Professor Messer, Simply Cyber, Outpost Gray
-Web & Cloud Security – OWASP Foundation, Security Now, Day CyberWox
-Offensive Security & Pentesting – SANS Offensive Operations, Offensive Security
-Malware Analysis & Forensics – John Hammond, 13Cubed, BlackPerl
+* General Cybersecurity – Hak5, David Bombal, Black Hills InfoSec
+* Bug Bounty & Ethical Hacking – The XSS Rat, InsiderPHD, NahamSec
+* Certifications & Career Growth – Professor Messer, Simply Cyber, Outpost Gray
+* Web & Cloud Security – OWASP Foundation, Security Now, Day CyberWox
+* Offensive Security & Pentesting – SANS Offensive Operations, Offensive Security
+* Malware Analysis & Forensics – John Hammond, 13Cubed, BlackPerl
+
+# General Resources
+https://cloud.google.com/security/resources
+https://www.sans.org/
+https://aws.amazon.com/security/
+https://grclab.com
+[Wi-Fi Forge: Practice Wi-Fi Security Without Hardware]([https://www.blackhillsinfosec.com/wifi-forge/](https://www.blackhillsinfosec.com/wifi-forge/))
+https://www.sans.org/cybersecurity-leadership/books/
+- Reach out to local college w/offer to help
+Conferences
+- CAMP IT: [http://www.campconferences.com/events/2017/enterprise_risk.htm](http://www.campconferences.com/events/2017/enterprise_risk.htm)
+- CISO Institute: [http://www.evanta.com/ciso/institutes/university-of-chicago](http://www.evanta.com/ciso/institutes/university-of-chicago)
+- Thotcon: [http://thotcon.org/](http://thotcon.org/
+- Bsides Chicago: [http://bsideschicago.org/](http://bsideschicago.org/)
+- IANS: [https://www.iansresearch.com/events](https://www.iansresearch.com/events)
+- SC Congress: [http://www.sccongress.com/chicago/](http://www.sccongress.com/chicago/)
+- CISO Executive Summit [http://www.evanta.com/ciso/summits/chicago](http://www.evanta.com/ciso/summits/chicago)
