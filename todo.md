@@ -45,7 +45,7 @@ https://exploringpossibilityspace.blogspot.com/2014/02/thomas-scoring-system.htm
 
 ### AI
 * SR 11-7 Fed Guidance on Model Risk Management https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
-	* Risks, best practices and internal controls - [[The IIAs AI Auditing Framework]]
+	* Risks, best practices and internal controls - [The IIAs AI Auditing Framework](https://www.theiia.org/en/content/tools/professional/2023/the-iias-updated-ai-auditing-framework/)
 
 - [MS AI Shared Responsibility Model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai) 
 
@@ -74,6 +74,8 @@ https://exploringpossibilityspace.blogspot.com/2014/02/thomas-scoring-system.htm
 | - AI Controls Matrix → [Download for free](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)<br>- Trusted AI Safety Expert Program → [Make a donation](https://cloudsecurityalliance.org/education/taise-support/)<br>- Valid-AI-ted → [Learn more](https://cloudsecurityalliance.org/artifacts/overview-of-csa-star-level-1-valid-ai-ted)<br>- Compliance Automation Revolution → [Join the Revolution](https://cloudsecurityalliance.org/car)<br>- CSA Blog → [Catch up on latest insights](https://cloudsecurityalliance.org/blog/terms/artificial-intelligence/) |
 | New AI research from CSA:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | - Secure Agentic System Design → [Read more](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)<br>- Agentic AI Identity & Access Management → [Read more](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach)<br>- Navigating the Human Factor → [Read more](https://cloudsecurityalliance.org/artifacts/navigating-the-human-factor)                                                                                                                                                                    |
+
+
 
 
 # Resources - YouTube
