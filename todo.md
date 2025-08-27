@@ -68,3 +68,12 @@ https://exploringpossibilityspace.blogspot.com/2014/02/thomas-scoring-system.htm
 | - AI Controls Matrix → [Download for free](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix)<br>- Trusted AI Safety Expert Program → [Make a donation](https://cloudsecurityalliance.org/education/taise-support/)<br>- Valid-AI-ted → [Learn more](https://cloudsecurityalliance.org/artifacts/overview-of-csa-star-level-1-valid-ai-ted)<br>- Compliance Automation Revolution → [Join the Revolution](https://cloudsecurityalliance.org/car)<br>- CSA Blog → [Catch up on latest insights](https://cloudsecurityalliance.org/blog/terms/artificial-intelligence/) |
 | New AI research from CSA:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | - Secure Agentic System Design → [Read more](https://cloudsecurityalliance.org/artifacts/secure-agentic-system-design)<br>- Agentic AI Identity & Access Management → [Read more](https://cloudsecurityalliance.org/artifacts/agentic-ai-identity-and-access-management-a-new-approach)<br>- Navigating the Human Factor → [Read more](https://cloudsecurityalliance.org/artifacts/navigating-the-human-factor)                                                                                                                                                                    |
+
+
+# Resources - YouTube
+General Cybersecurity – Hak5, David Bombal, Black Hills InfoSec
+Bug Bounty & Ethical Hacking – The XSS Rat, InsiderPHD, NahamSec
+Certifications & Career Growth – Professor Messer, Simply Cyber, Outpost Gray
+Web & Cloud Security – OWASP Foundation, Security Now, Day CyberWox
+Offensive Security & Pentesting – SANS Offensive Operations, Offensive Security
+Malware Analysis & Forensics – John Hammond, 13Cubed, BlackPerl
