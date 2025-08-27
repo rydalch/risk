@@ -1,3 +1,9 @@
+
+### Third Party Risk Assessments
+ - [ ] [https://m.youtube.com/watch?v=BzEL00RtcCU](https://m.youtube.com/watch?v=BzEL00RtcCU) Enhanced Vendor Risk Assessments
+
+
+
 ### Lens Model
 
 ### Data Sources
@@ -54,7 +60,7 @@ https://exploringpossibilityspace.blogspot.com/2014/02/thomas-scoring-system.htm
  **AI Security Frameworks**
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
 - [MITRE ATLAS (AI + ATT&CK)](https://atlas.mitre.org)
-- 
+- https://www.sans.org/blog/securing-ai-in-2025-a-risk-based-approach-to-ai-controls-and-governance/
 - [OWASP AI Exchange](https://owaspai.org)
 - https://blog.sshh.io/p/how-to-backdoor-large-language-models
 - Using_AI_to_Evade_Security_Controls.pdf
@@ -85,7 +91,7 @@ https://aws.amazon.com/security/
 https://grclab.com
 [Wi-Fi Forge: Practice Wi-Fi Security Without Hardware]([https://www.blackhillsinfosec.com/wifi-forge/](https://www.blackhillsinfosec.com/wifi-forge/))
 https://www.sans.org/cybersecurity-leadership/books/
-- Reach out to local college w/offer to help
+
 Conferences
 - CAMP IT: [http://www.campconferences.com/events/2017/enterprise_risk.htm](http://www.campconferences.com/events/2017/enterprise_risk.htm)
 - CISO Institute: [http://www.evanta.com/ciso/institutes/university-of-chicago](http://www.evanta.com/ciso/institutes/university-of-chicago)
@@ -94,3 +100,34 @@ Conferences
 - IANS: [https://www.iansresearch.com/events](https://www.iansresearch.com/events)
 - SC Congress: [http://www.sccongress.com/chicago/](http://www.sccongress.com/chicago/)
 - CISO Executive Summit [http://www.evanta.com/ciso/summits/chicago](http://www.evanta.com/ciso/summits/chicago)
+
+# Software supply chain security standards, 
+such as  Google’s SLSA, NIST SSDF, and the CIS Benchmark.
+
+## Threat intelligence
+* threatmodelingmanifesto.org
+* Structured analytical techniques
+* [Intel Analysis & OSINT Books/Papers/Articles](https://docs.google.com/spreadsheets/d/1ruxNKVkhVCZgnVzidhp---ly6KnVCFsnUBj27R-P8Ks/edit?gid=0#gid=0) 
+### OSINT
+https://www.sans.org/posters/osint-poster/
+
+[Continous pentesting webinar - SANS](https://www.sans.org/webcasts/offensive-security-operations-attack-surface-management-continuous-pen-testing/?utm_medium=Email&utm_source=atRisk&utm_content=data-amp-placeholder-3-amp-end_atRiskvol25no13_CPTJan29_OffensiveOps_Webcast&utm_campaign=OffensiveOps_GlobalOrders_Webcasts_2025&is=8e65850ae9836008d25837ce7e5b29d4afa64bcaf688873a65edfeda5d5f4e30)
+
+
+# Security Awareness
+[[SSA_maturity-model-2025.pdf]]
+
+
+# Cloud
+Notes from CSA conference:
+Challenges with using cloud services
+1. User provisioning
+2. Egress centralization to support policy
+3. Integration/security agents
+4. Monitoring security events of SaaS apps (authentication events)
+5. Reporting: In the cloud vs. in house? (have to copy all the data back in house to use B.O.)
+6. Certificate expiration
+   
+Splunk! Don't want data to go from cloud1 -> to internal to -> cloud2
+
+
