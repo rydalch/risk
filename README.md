@@ -218,6 +218,8 @@ https://github.com/securecontrolsframework/securecontrolsframework
 Security Control Mappings
 * https://github.com/AbeWinters/control-mappings
 * https://csrc.nist.gov/projects/olir/informative-reference-catalog#/
+* [https://www.adobe.com/trust/compliance/adobe-ccf.html](https://www.adobe.com/trust/compliance/common-controls-framework.html)
+* https://adobe-ccf-demo.compliancegenie.io/framework-mapping (https://github.com/MarkAC007/adobe-ccf-document-generator)
 
 
 
