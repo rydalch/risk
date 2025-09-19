@@ -135,12 +135,16 @@ https://docs.google.com/spreadsheets/d/1qKne0RNOnwW3IJWgO70yiJOz1VebqT3M9I8Ci4RO
 * MITRE ATT&CK
 https://attack.mitre.org/
 
+* CRF Threat Taxonomy
+  https://crfsecure.org/research/crf-threat-taxonomy/
+
 ## Threat Assessment Tools
 
 https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
 
 ThreatModeler
  https://threatmodeler.com/threatmodeler-launches-free-lite-community-edition/
+
 
 ## Insider Threat
 CMU Common Sense Guide to Prevention and Detection of Insider Threats
@@ -223,6 +227,7 @@ Security Control Mappings
 * https://csrc.nist.gov/projects/olir/informative-reference-catalog#/
 * [https://www.adobe.com/trust/compliance/adobe-ccf.html](https://www.adobe.com/trust/compliance/common-controls-framework.html)
 * https://adobe-ccf-demo.compliancegenie.io/framework-mapping (https://github.com/MarkAC007/adobe-ccf-document-generator)
+* https://crfsecure.org/research/crf-safeguards/
 
 
 
@@ -265,6 +270,9 @@ https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2
 
 NIST - Program Review for Information Security Assistance PRISMA
 https://csrc.nist.gov/Projects/Program-Review-for-Information-Security-Assistance/Security-Maturity-Levels
+
+CRF Maturity Model
+https://crfsecure.org/research/crf-maturity-model/
 
 CMMC Model (??)
 https://dodcio.defense.gov/CMMC/Model/
