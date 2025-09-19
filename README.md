@@ -102,6 +102,9 @@ https://jpsturgis.shinyapps.io/vcdb_explorer/
 * SimpleRisk (Open Source GRC)
 https://www.simplerisk.com
 
+* Free GRC using MS PowerApps
+ https://store.securitybagel.io/
+
 ### Future
 https://saga.ws/
 
