@@ -1,4 +1,4 @@
-# Compliance Automation
+# Compliance Automation Notes
 
 https://grc.engineering/
 
@@ -12,3 +12,6 @@ https://github.com/ossf/gemara
 
 Compliance Framework is an open-source cloud compliance framework crafted to streamline and automate compliance processes. Its aim is to simplify compliance challenges and promote continuous compliance collaboration within the community.
 https://github.com/compliance-framework
+
+Auto generate controls descriptions for 800-53 using AI
+https://github.com/Ask-Sage/NIST-800-53-Automation/tree/main
