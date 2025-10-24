@@ -145,6 +145,9 @@ https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
 ThreatModeler
  https://threatmodeler.com/threatmodeler-launches-free-lite-community-edition/
 
+## Threat Model Examples
+ https://github.com/TalEliyahu/Threat_Model_Examples?tab=readme-ov-file
+
 
 ## Insider Threat
 CMU Common Sense Guide to Prevention and Detection of Insider Threats
