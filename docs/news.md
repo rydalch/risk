@@ -44,19 +44,12 @@ Stay current with cybersecurity, risk management, and governance news and insigh
 - Best practices and case studies
 - Executive-level resources
 
-### Governance & Audit Resources
 
-**[ISACA.org](https://www.isaca.org/)** - Governance and Audit Organization
-- Information systems audit and control content
-- CIS, CISA, CRISC certification resources
-- Risk and compliance frameworks
-- Professional development and community
-
-## Social Media & Alternative Platforms
+## Social Media
 
 ### X (Twitter)
 
-Key cybersecurity influencers and organizations on X:
+Key cybersecurity people and organizations on Twitter:
 
 - **@briankrebs** - Brian Krebs (Krebs on Security)
 - **@DarkReading** - Dark Reading cybersecurity news
@@ -68,16 +61,6 @@ Key cybersecurity influencers and organizations on X:
 - **@InforSecurityMag** - InfoSecurity Magazine
 - **@RiskandCompliance** - Risk and compliance industry news
 - **@ISACAofficial** - ISACA official updates and resources
-
-### Bluesky
-
-Emerging cybersecurity community on Bluesky:
-
-- Growing alternative to X for security professionals
-- Follow established security researchers and journalists migrating to platform
-- More detailed technical discussions in some feeds
-- ISACA and other professional organizations establishing presence
-- Look for infosec-focused feeds and accounts
 
 ## YouTube Channels
 
@@ -105,11 +88,7 @@ Emerging cybersecurity community on Bluesky:
 ### Hacker News
 
 **[news.ycombinator.com](https://news.ycombinator.com/)** - Technology & Security Headlines
-- Community-voted technology news
-- Strong cybersecurity and privacy content
-- Technical discussions in comments
-- Daily digest of important stories
-- Subscribe to daily email digest
+
 
 ### Reddit Communities
 
@@ -129,20 +108,6 @@ Emerging cybersecurity community on Bluesky:
 - **Risky Business** - Weekly security news and analysis
 - **Cyber Hygiene** - Risk and compliance focused podcast
 - **SANS Internet Storm Center** - Daily security news and threats
-
-## Newsletter Subscriptions
-
-### Email Newsletters
-
-Many sources offer email subscriptions for regular updates:
-
-- **Krebs on Security** - Free newsletter with weekly coverage
-- **Dark Reading** - Daily briefing email
-- **SANS Internet Storm Center** - Daily threat summary
-- **The Hacker News** - Email newsletter
-- **Cybersecurity Insider** - Weekly news digest
-- **SC Magazine** - Industry news and insights
-- **Risky Business Newsletter** - Weekly cybersecurity update
 
 ## Industry Events & Conferences
 
@@ -164,17 +129,6 @@ Major conferences with speaker resources and coverage:
 - **[Shodan](https://www.shodan.io/)** - Device search engine for threat intelligence
 - **[GreyNoise](https://www.greynoise.io/)** - Internet-wide threat intelligence
 
-## Best Practices for Following News
-
-### Effective News Consumption
-
-1. **Prioritize Sources**: Start with established outlets (Krebs, Dark Reading, ISACA)
-2. **Set Alert Keywords**: Monitor for threats relevant to your organization
-3. **Verify Information**: Cross-reference breaking news with multiple sources
-4. **Track Patterns**: Look for trends beyond individual incidents
-5. **Balance Depth & Breadth**: Mix deep technical reads with broad overviews
-6. **Engage Critically**: Consider business impact and personal relevance
-7. **Subscribe to Summaries**: Use newsletters for time-efficient updates
 
 ## Related Resources
 
