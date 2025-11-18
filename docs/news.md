@@ -141,4 +141,44 @@ Major conferences with speaker resources and coverage:
 
 Know a reliable cybersecurity or risk news source? [Suggest it in GitHub Issues](../../issues) or submit a pull request to add it to this list.
 
+## Resources - YouTube
+
+### General Cybersecurity & Risk
+
+- [ITPro.TV](https://www.youtube.com/@itprotv) - Cybersecurity training and certifications
+- [Professor Messer](https://www.youtube.com/@professormesser) - Security+ and IT certification prep
+- [John Hammond](https://www.youtube.com/@johnhammond010) - Cybersecurity news and incident analysis
+
+### Bug Bounty & Offensive Security
+
+- [LiveOverflow](https://www.youtube.com/@liveoverflow) - Bug bounty, CTF, and security research
+- [IppSec](https://www.youtube.com/@ippsec) - HackTheBox walkthroughs and penetration testing
+- [STOK](https://www.youtube.com/@stokfredrik) - Bug bounty methodology and web security
+
+### Malware Analysis & Reverse Engineering
+
+- [Guided Hacking](https://www.youtube.com/@guidedhacking) - Reverse engineering and game hacking
+- [Enderman](https://www.youtube.com/@endermanch) - Malware analysis and security research
+
+### Cloud & Infrastructure Security
+
+- [DevOps Directive](https://www.youtube.com/@devopsdirective) - Kubernetes, cloud security, and infrastructure
+- [Fireship](https://www.youtube.com/@fireship_dev) - Technology overviews and security concepts
+
+## Industry Conferences
+
+### Major Security Conferences
+
+- **Black Hat** - Leading security conference with training and research presentations
+- **DEF CON** - Largest hacking conference with talks and villages
+- **RSA Conference** - Enterprise security and governance focus
+- **SANS Security Conference** - Advanced security training and research
+
+### Chicago-Area Conferences
+
+- **CAMP IT** - Chicago Area Microsoft Professionals conference
+- **CISO Institute** - Chief Information Security Officer focused events and training
+- **Thotcon** - Chicago-area hacker conference
+- **Chicago Information Security Meetup** - Local cybersecurity community events
+
 **Last Updated**: November 2025
