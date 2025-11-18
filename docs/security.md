@@ -19,15 +19,6 @@ Effective security programs require systematic testing and validation of control
 - [OWASP - Open Web Application Security Project](https://www.owasp.org/) - Web application security standards and best practices
 - [OSSTMM - Open Source Security Testing Methodology Manual](http://www.isecom.org/) - Methodologies for security testing
 
-### Compliance Frameworks
-
-- **NIST**: National Institute of Standards and Technology security standards (SP 800 series)
-- **ISO**: International Organization for Standardization security standards (ISO 27001, 27002)
-- **GLBA**: Gramm-Leach-Bliley Act financial services security requirements
-- **HIPAA**: Health Insurance Portability and Accountability Act healthcare security requirements
-- **FISMA**: Federal Information Security Modernization Act federal system requirements
-- **PCI-DSS**: Payment Card Industry Data Security Standard for payment systems
-
 ## Testing & Development Environments
 
 ### Vulnerable VMs for Practice
@@ -212,13 +203,6 @@ Effective security programs require systematic testing and validation of control
 - [PwnedList](https://pwnedlist.com/) - Compromised account database
 - [SecurityFocus](https://www.securityfocus.com/) - Security research and vulnerability data
 
-### Information Security News & Magazines
-
-- ISACA.org - Governance and audit resources
-- SecurityManagement.com - Security management resources
-- InfoSecurityMag.com - Information security magazine
-- SCMagazine.com - Security industry news
-- Dark Reading - Cybersecurity news and insights
 
 ## Related Resources
 
