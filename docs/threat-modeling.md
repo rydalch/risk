@@ -42,3 +42,9 @@ Resources for threat identification, assessment, and modeling.
   - Paper: https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_sasha_romanosky.pdf
 - **CISA Known Exploited Vulnerabilities Catalog**: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - **Kenna Security Research**: https://resources.kennasecurity.com/research-reports-2
+
+- ## Threat Intelligence & OSINT
+
+### OSINT Resources
+
+- [SANS Posters - Open Source Intelligence](https://www.sans.org/posters/osint-poster/): Comprehensive OSINT techniques and frameworks
