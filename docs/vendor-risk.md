@@ -18,3 +18,10 @@ Resources for assessing and managing third-party and supply chain risks.
 ## Key Risk Indicators for Vendors
 
 - Key Risk Indicators (KRIs) for Cybersecurity: https://www.fairinstitute.org/blog/kris-for-cybersecurity-canaries-in-coal-mines
+
+- ### Enhanced Vendor Risk Assessment Methodologies
+
+**[Enhanced Vendor Risk Assessments - YouTube](https://m.youtube.com/watch?v=BzEL00RtcCU)**
+- Advanced approaches to third-party security assessments
+- Practical methodologies for evaluating vendor cybersecurity maturity
+- Best practices for risk scoring and prioritization of vendor relationships
