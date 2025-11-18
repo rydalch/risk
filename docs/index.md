@@ -15,13 +15,6 @@ A comprehensive, organized resource hub for cybersecurity risk, governance, and 
 - **[Boardroom & Governance](boardroom.md)** - Board reporting, executive guidance, and governance
 - **[Maturity Models](maturity.md)** - CMMI, FISMA, C2M2, and other maturity frameworks
 
-## Quick Links
-
-- **NIST Risk Management Framework**: https://csrc.nist.gov/Projects/Risk-Management
-- **FAIR Institute**: https://www.fairinstitute.org/
-- **MITRE ATT&CK**: https://attack.mitre.org/
-- **CISA**: https://www.cisa.gov/
-
 ## About This Knowledge Base
 
 This repository is organized for readability and ease of navigation within GitHub. All resources are curated to be publicly accessible and free or open-source where possible.
