@@ -1,6 +1,6 @@
 # Risk Management Knowledge Base
 
-A comprehensive, organized resource hub for cybersecurity risk, governance, and compliance information.
+Curated cybersecurity risk, governance, and compliance resources.
 
 ## Browse by Topic
 
