@@ -49,3 +49,27 @@ Compare and align controls across different frameworks:
 
 - **ISACA** - IT Risk Framework: https://www.isaca.org/resources/it-risk
 - **NCSC** - Risk Management Collection: https://www.ncsc.gov.uk/collection/risk-management-collection/essential-topics/variety-risk-information
+
+- ## Software Supply Chain Security
+
+### SLSA Framework (Supply Chain Levels for Software Artifacts)
+
+- [SLSA Framework](https://slsa.dev/): Google's framework for software supply chain security
+  - Levels 1-4 of software artifact security
+  - Provenance and integrity guarantees
+  - Focus on protecting against tampering and unauthorized changes
+
+### NIST Secure Software Development Framework (SSDF)
+
+- [NIST SSDF](https://csrc.nist.gov/publications/detail/sp/800-218/final): Security practices for software development
+  - Practice Groups (PO, PS, PO, PR) covering practices and controls
+  - Emphasis on secure development, secure supply chain, and incident management
+  - Applicable to commercial and government software
+
+### CIS Software Supply Chain Security Benchmark
+
+- [CIS Benchmarks - Supply Chain Security](https://www.cisecurity.org/cis-benchmarks/): Best practices for securing software supply chain
+  - Code repository security
+  - Build process security
+  - Artifact and dependency management
+  - Vulnerability management in dependencies
