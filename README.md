@@ -1,6 +1,6 @@
-# Risk Management Knowledge Base
+# Risk Management Resources
 
-Curated cybersecurity risk, governance, and compliance resources.
+Curated cybersecurity risk, governance, and compliance resources that are free.
 
 ## Browse by Topic
 
