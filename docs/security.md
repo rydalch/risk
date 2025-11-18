@@ -222,3 +222,9 @@ Effective security programs require systematic testing and validation of control
 - Following your organization's security policies
 
 Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing.
+
+## Continuous Security Operations
+
+### Continuous Penetration Testing
+
+- [SANS - Offensive Security Operations: Attack Surface Management & Continuous Pen Testing](https://www.sans.org/webcasts/offensive-security-operations-attack-surface-management-continuous-pen-testing/): Webinar covering continuous pentesting approaches and methodologies for ongoing security validation
