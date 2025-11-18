@@ -6,8 +6,8 @@ A comprehensive, organized resource hub for cybersecurity risk, governance, and 
 
 - **[Frameworks & Standards](./frameworks.md)** - Control frameworks (NIST, CIS, ISO, COBIT) and security standards
 - **[Risk Methods](./risk-methods.md)** - Quantitative and qualitative risk analysis approaches (FAIR, NIST RMF)
-- - **[AI Security & Governance](./ai-security.md)** - AI security frameworks, LLM security, model risk management, and governance
-  - - **[Cloud Security](./cloud-security.md)** - Cloud infrastructure security, provider resources, and cloud-specific security challenges
+- **[AI Security & Governance](./ai-security.md)** - AI security frameworks, LLM security, model risk management, and governance
+- **[Cloud Security](./cloud-security.md)** - Cloud infrastructure security, provider resources, and cloud-specific security challenges
 - **[Tools & Libraries](./tools.md)** - Risk assessment tools, libraries, and GRC platforms
 - **[Threat Modeling](./threat-modeling.md)** - Threat analysis, MITRE ATT&CK, and threat assessment resources
 - **[Data Analysis](./data-analysis.md)** - Data sources, visualization, and Python/R learning resources
@@ -18,7 +18,7 @@ A comprehensive, organized resource hub for cybersecurity risk, governance, and 
 - **[Information Security Testing](./security.md)** - Security testing tools, methodologies, and resources
 - **[Boardroom & Governance](./boardroom.md)** - Board reporting, executive guidance, and governance
 - **[Maturity Models](./maturity.md)** - CMMI, FISMA, C2M2, and other maturity frameworks
-- - **[News & Information Sources](./news.md)** - Cybersecurity news, research, and industry insights
+- **[News & Information Sources](./news.md)** - Cybersecurity news, research, and industry insights
 
 ## About This Knowledge Base
 
