@@ -15,9 +15,6 @@ Integration of cybersecurity risk into overall business risk management and gove
 ### Risk Assessment
 Systematic process of identifying, analyzing, and quantifying risks to an organization.
 
-### Inherent Risk
-Risk before controls are applied. Contrasts with residual risk (risk after controls).
-
 ### Cyber Value-at-Risk (CVaR)
 Financial metric expressing potential loss from cyber incidents, used to communicate risk to business executives.
 
