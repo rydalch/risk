@@ -16,6 +16,7 @@ A comprehensive, organized resource hub for cybersecurity risk, governance, and 
 - **[Information Security Testing](./security.md)** - Security testing tools, methodologies, and resources
 - **[Boardroom & Governance](./boardroom.md)** - Board reporting, executive guidance, and governance
 - **[Maturity Models](./maturity.md)** - CMMI, FISMA, C2M2, and other maturity frameworks
+- - **[News & Information Sources](./news.md)** - Cybersecurity news, research, and industry insights
 
 ## About This Knowledge Base
 
