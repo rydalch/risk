@@ -17,7 +17,7 @@ Effective security programs require systematic testing and validation of control
 
 - [PTES - Penetration Testing Execution Standard](http://www.pentest-standard.org/) - Comprehensive framework for planning and executing penetration tests
 - [OWASP - Open Web Application Security Project](https://www.owasp.org/) - Web application security standards and best practices
-- [OSSTMM - Open Source Security Testing Methodology Manual](http://www.isecom.org/) - Methodologies for security testing
+- [OSSTMM - Open Source Security Testing Methodology Manual]([http://www.isecom.org/](https://www.isecom.org/research.html#content5-9d) - Methodologies for security testing
 
 ## Testing & Development Environments
 
