@@ -15,9 +15,9 @@ Effective security programs require systematic testing and validation of control
 
 ### Penetration Testing Standards
 
-- [PTES - Penetration Testing Execution Standard](http://www.pentest-standard.org/) - Comprehensive framework for planning and executing penetration tests
+- [PTES - Penetration Testing Execution Standard](https://www.pentest-standard.org/) - Comprehensive framework for planning and executing penetration tests
 - [OWASP - Open Web Application Security Project](https://www.owasp.org/) - Web application security standards and best practices
-- [OSSTMM - Open Source Security Testing Methodology Manual]([http://www.isecom.org/](https://www.isecom.org/research.html#content5-9d) - Methodologies for security testing
+- [OSSTMM - Open Source Security Testing Methodology Manual](https://www.isecom.org/research.html#content5-9d) - Methodologies for security testing
 
 ## Testing & Development Environments
 
@@ -25,7 +25,7 @@ Effective security programs require systematic testing and validation of control
 
 - **Metasploitable** - Linux VM with intentional vulnerabilities for testing tools
 - **WebGoat** - Insecure J2EE web application designed for security training
-- [Certified Hacker Practice Sites](http://certifiedhacker.com/) - Various intentionally vulnerable applications
+- [Certified Hacker Practice Sites](https://certifiedhacker.com/) - Various intentionally vulnerable applications
 - **Wireshark Trace Files** - Network packet captures for analysis practice
 
 ## Reconnaissance & Footprinting
