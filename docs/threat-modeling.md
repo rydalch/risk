@@ -2,6 +2,9 @@
 
 Resources for threat identification, assessment, and modeling.
 
+Also see the OWASP Threat Modeling Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+
+
 ## Threat Actors & Taxonomies
 
 ### Intel Threat Agent Library
@@ -18,6 +21,11 @@ Resources for threat identification, assessment, and modeling.
   - Used for threat modeling, red team planning, and defensive gap analysis
 
 ## Threat Modeling Tools
+
+### **OWASP Threat Dragon**: https://www.threatdragon.com/
+  - Open-source threat modelling tool from OWASP
+  - Provides an environment to create threat models as data-flow diagrams, along with associated threats and remediations.
+  - Threats can be categorized using STRIDE, LINDDUN, CIA, CIA-DIE and PLOT4ai.
 
 ### Microsoft Threat Modeling Tool
 - https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
