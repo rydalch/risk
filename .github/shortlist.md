@@ -122,25 +122,35 @@ Suite of tools to assess WiFi network security
     -   - Password auditing and recovery tool
 
 
-Burp Suite
-- [Download](https://portswigger.net/burp)
-- - Web application security testing proxy
-Nikto
-- [Download](https://cirt.net/Nikto2)
-- - Web server vulnerability scanner
-Pentest Tools
-- [Download](https://pentest-tools.com/)
-- - Collection of penetration testing tools
-New Relic
-LanGuard
-- [Download](https://www.gremlin.com/langen/)
-- - Network vulnerability scanner
-- [Download](https://newrelic.com/)
-- - Performance monitoring and security scanning
-Binwalk
-- [Download](https://github.com/ReFirmLabs/binwalk)
-- - Firmware extraction and reverse engineering tool
+## Burp Suite
 
+*  - [Download](https://portswigger.net/burp)
+  - Web application security testing proxy
+
+## Nikto
+
+*  - [Download](https://cirt.net/Nikto2)
+  - Web server vulnerability scanner
+
+## Pentest Tools
+
+*  - [Download](https://pentest-tools.com/)
+  - Collection of penetration testing tools
+
+## New Relic
+
+*  - [Download](https://newrelic.com/)
+  - Performance monitoring and security scanning
+
+## LanGuard
+
+*  - [Download](https://www.gremlin.com/langen/)
+  - Network vulnerability scanner
+
+## Binwalk
+
+*  - [Download](https://github.com/ReFirmLabs/binwalk)
+  - Firmware extraction and reverse engineering tool
 
 # Topics
 ## Operating Systems Basics
@@ -148,20 +158,20 @@ Binwalk
 * Ubuntu
 * Windows Server 2022
 
-System Architecture
-Virtual Memory Concepts
-Networking Concepts
-Network Protocols
-Firewalls and Security Protocols
-SIEM Systems
-MITRE Framework
-Identity Management
-Network Forensics
-Threats and Vulnerabilities
-Ethical Hacking
-Penetration Testing
-Secure Coding Practices
-Vulnerability Assessment
-Incident Response
-Prompt Engineering
-Risk Management
+* System Architecture
+* Virtual Memory Concepts
+* Networking Concepts
+* Network Protocols
+* Firewalls and Security Protocols
+* SIEM Systems
+* MITRE Framework
+* Identity Management
+* Network Forensics
+* Threats and Vulnerabilities
+* Ethical Hacking
+* Penetration Testing
+* Secure Coding Practices
+* Vulnerability Assessment
+* Incident Response
+* Prompt Engineering
+* Risk Management
