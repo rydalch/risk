@@ -70,7 +70,7 @@ Suite of tools to assess WiFi network security
 * crunch
 * beebox
 * binwalk
-* L0phtCrack
+* L0phtCrack - [Download](https://gitlab.com/l0phtcrack/l0phtcrack)
 
 
 Burp Suite
@@ -104,3 +104,6 @@ Vulnerability Assessment
 Incident Response
 Prompt Engineering
 Risk Management
+
+# Others
+* [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
