@@ -43,84 +43,101 @@ Suite of tools to assess WiFi network security
 - Cracking: WEP and WPA PSK (WPA 1 and 2)
 
 # VMs
-- Windows
--   - [Download](https://www.microsoft.com/en-us/software-download/windows11)
-    -   - Operating system for testing and lab environments
-- Ubuntu
--   - [Download](https://ubuntu.com/download/desktop)
-    -   - Linux OS for security testing
-- Kali Linux
--   - [Download](https://www.kali.org/downloads/)
-    -   - Penetration testing and ethical hacking platform
-- WebGoat
--   - [Download](https://owasp.org/www-project-webgoat/)
-    -   - Deliberately insecure application for learning
+Windows
+- [Download](https://www.microsoft.com/en-us/software-download/windows11)
+- Operating system for testing and lab environments
 
+Ubuntu
+- [Download](https://ubuntu.com/download/desktop)
+- Linux OS for security testing
+
+Kali Linux
+- [Download](https://www.kali.org/downloads/)
+- Penetration testing and ethical hacking platform
+
+WebGoat
+- [Download](https://owasp.org/www-project-webgoat/)
+- Deliberately insecure application for learning
 # Foundations
-* Windows Server 2022
-*   - [Download](https://www.microsoft.com/en-us/windows-server)
-    -   - Server OS for Active Directory and infrastructure
-* Wireshark
-*   - [Download](https://www.wireshark.org/download/)
-* nmap
-*   - [Download](https://nmap.org/download.html)
-    -   - Network scanner for discovery and security auditing
-* tor
-*   - [Download](https://www.torproject.org/download/)
-    -   - Anonymity network for privacy and secure communications
-* hping
-*   - [Download](http://www.hping.org/download.html)
-    -   - TCP/IP packet crafting tool for testing
-* scapy
-*   - [Download](https://scapy.readthedocs.io/en/latest/installation.html)
-    -   - Python library for packet manipulation and network analysis
+Windows Server 2022
+- [Download](https://www.microsoft.com/en-us/windows-server)
+- Server OS for Active Directory and infrastructure
 
+Wireshark
+- [Download](https://www.wireshark.org/download/)
+- Network protocol analyzer
+
+nmap
+- [Download](https://nmap.org/download.html)
+- Network scanner for discovery and security auditing
+
+tor
+- [Download](https://www.torproject.org/download/)
+- Anonymity network for privacy and secure communications
+
+hping
+- [Download](http://www.hping.org/download.html)
+- TCP/IP packet crafting tool for testing
+
+scapy
+- [Download](https://scapy.readthedocs.io/en/latest/installation.html)
+- Python library for packet manipulation and network analysis
 # Defensive Security
-* semgrep
-*   - [Download](https://semgrep.dev/)
-    -   - Static code analysis tool for finding bugs and security issues
-* pestudio
-*   - [Download](https://www.winitor.com/download)
-    -   - Malware analysis and static examination tool for Windows
-* splunk
-*   - [Download](https://www.splunk.com/en_us/download.html)
-    -   - SIEM platform for log aggregation and security monitoring
-* OWASP ZAP
-*   - [Download](https://www.zaproxy.org/)
-    -   - Web application security scanner for finding vulnerabilities
-* Owasp Threat Dragon
-*   - [Download](https://www.threatdragon.com/)
-    -   - Threat modeling tool for identifying security risks
-* exterro
-*   - [Download](https://www.exterro.com/)
-    -   - Digital forensics and eDiscovery platform
+semgrep
+- [Download](https://semgrep.dev/)
+- Static code analysis tool for finding bugs and security issues
 
+pestudio
+- [Download](https://www.winitor.com/download)
+- Malware analysis and static examination tool for Windows
+
+splunk
+- [Download](https://www.splunk.com/en_us/download.html)
+- SIEM platform for log aggregation and security monitoring
+
+OWASP ZAP
+- [Download](https://www.zaproxy.org/)
+- Web application security scanner for finding vulnerabilities
+
+Owasp Threat Dragon
+- [Download](https://www.threatdragon.com/)
+- Threat modeling tool for identifying security risks
+
+exterro
+- [Download](https://www.exterro.com/)
+- Digital forensics and eDiscovery platform
 # Offensive Security
-* Metasploit
-*   - [Download](https://www.metasploit.com/)
-    -   - Penetration testing framework for vulnerability exploitation
-* Nessus
-*   - [Download](https://www.tenable.com/products/nessus)
-    -   - Vulnerability scanner for security assessment
-* spiderfoot
-*   - [Download](https://www.spiderfoot.net/)
-    -   - OSINT automation tool for reconnaissance
-* shodan
-*   - [Download](https://www.shodan.io/)
-    -   - Search engine for internet-connected devices
-* crunch
-*   - [Download](https://sourceforge.net/projects/crunch-wordlist/)
-    -   - Wordlist generator for password cracking
-* beebox
-*   - [Download](https://www.purpleteamonhacks.com/2018/05/beebox-building-box.html)
-    -   - Vulnerable application for security training
-* binwalk
-*   - [Download](https://github.com/ReFirmLabs/binwalk)
-    -   - Firmware extraction and reverse engineering tool
-* L0phtCrack
-*   - [Download](https://www.l0phtcrack.com/)
-    -   - Password auditing and recovery tool
+Metasploit
+- [Download](https://www.metasploit.com/)
+- Penetration testing framework for vulnerability exploitation
 
+Nessus
+- [Download](https://www.tenable.com/products/nessus)
+- Vulnerability scanner for security assessment
+
+spiderfoot
+- [Download](https://www.spiderfoot.net/)
+- OSINT automation tool for reconnaissance
+
+shodan
+- [Download](https://www.shodan.io/)
+- Search engine for internet-connected devices
+
+crunch
+- [Download](https://sourceforge.net/projects/crunch-wordlist/)
+- Wordlist generator for password cracking
+
+beebox
+- [Download](https://www.purpleteamonhacks.com/2018/05/beebox-building-box.html)
+- Vulnerable application for security training
+
+binwalk
+- [Download](https://github.com/ReFirmLabs/binwalk)
+- Firmware extraction and reverse engineering tool
+
+L0phtCrack
+- [Download](https://www.l0phtcrack.com/)
+- Password auditing and recovery tool
 
 ## Burp Suite
 
