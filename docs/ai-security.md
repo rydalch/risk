@@ -6,7 +6,8 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ### OWASP Top 10 for Large Language Models
 
-- [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/): Identifies the most critical security risks specific to LLM implementations
+[OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/): Identifies the most critical security risks specific to LLM implementations
+
   - LLM01: Prompt Injection
   - LLM02: Insecure Output Handling
   - LLM03: Training Data Poisoning
@@ -20,14 +21,16 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ### MITRE ATLAS (Adversarial Tactics, Techniques and Common Knowledge)
 
-- [MITRE ATLAS Framework](https://atlas.mitre.org/): Knowledge base of adversary tactics and techniques against AI systems
+[MITRE ATLAS Framework](https://atlas.mitre.org/): Knowledge base of adversary tactics and techniques against AI systems
+
   - Focuses on real-world attacks and security testing methodologies
   - Provides guidance for red teaming AI systems
   - Maps attack chains and defensive strategies
 
 ### Cloud Security Alliance AI Security Framework
 
-- [CSA AI Security Guidance](https://cloudsecurityalliance.org/): Comprehensive AI security controls and best practices
+[CSA AI Security Guidance](https://cloudsecurityalliance.org/): Comprehensive AI security controls and best practices
+
   - Data protection and privacy considerations
   - Model governance and lifecycle management
   - Continuous monitoring and incident response
@@ -37,45 +40,19 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ### Federal Reserve SR 11-7 Guidance
 
-- [SR 11-7: Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm): Foundational guidance for managing risks in model-based decision systems
+[SR 11-7: Guidance on Model Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm): Foundational guidance for managing risks in model-based decision systems
+
   - Applicable to AI/ML models in financial institutions
   - Covers model validation, governance, and documentation
   - Emphasizes third-party risk management
 
 ### IIA AI Auditing Framework
 
-- [The Institute of Internal Auditors - AI Auditing Framework](https://www.theiia.org/): Framework for auditing AI systems and governance
+[The Institute of Internal Auditors - AI Auditing Framework](https://www.theiia.org/): Framework for auditing AI systems and governance
+
   - Risk assessment methodologies for AI systems
   - Control evaluation frameworks
   - Audit procedures for algorithm transparency and bias
-
-## AI Security Controls & Risk Assessment
-
-### AI Controls Matrix
-
-**Data Security Controls:**
-- Encryption of training data at rest and in transit
-- Access controls for training datasets
-- Data lineage and provenance tracking
-- PII detection and masking in training data
-
-**Model Security Controls:**
-- Model versioning and integrity verification
-- Backdoor detection and input validation
-- Output sanitization and content filtering
-- Rate limiting and abuse prevention
-
-**Governance Controls:**
-- Model documentation and transparency
-- Bias testing and fairness audits
-- Adversarial testing and red teaming
-- Change management for model updates
-
-### Risk Rating Categories
-
-- **High Risk**: Production models with direct impact on critical decisions, large-scale deployment, or sensitive personal data
-- **Medium Risk**: Models supporting important business processes with monitoring and human oversight
-- **Low Risk**: Development and experimental systems with limited scope and external access
 
 ## Threats & Vulnerabilities
 
@@ -92,6 +69,12 @@ Comprehensive resources for understanding and managing security risks in artific
 
 - [AI Security Scanning Tools](https://github.com/topics/ai-security): Open-source tools for testing AI system security
 - Red team exercises specifically designed for AI systems
+- Prompt injection and jailbreak testing
+- Data exfiltration attempts
+- Model poisoning scenarios
+- Adversarial input generation
+- Bias and fairness testing
+- Regulatory compliance audits
 - Continuous monitoring for model drift and performance degradation
 
 ## AI Security Resources & Research
@@ -101,15 +84,8 @@ Comprehensive resources for understanding and managing security risks in artific
 - [NIST AI Risk Management Framework](https://www.nist.gov/): Framework for managing risks in AI systems
 - [AI and Security Research](https://arxiv.org/list/cs.CR/recent): Latest research on AI security threats and defenses
 - [Center for AI Safety](https://www.safe.ai/): Research on AI safety and security challenges
-
-### AI Security Testing Methodologies
-
-- Prompt injection and jailbreak testing
-- Data exfiltration attempts
-- Model poisoning scenarios
-- Adversarial input generation
-- Bias and fairness testing
-- Regulatory compliance audits
+- [MIT AI Risk Initiative](https://airisk.mit.edu/): A comprehensive living database of over 1700 AI risks categorized by their cause and risk domain (broader than just cybersecurity)
+- [CSA AI Research Publications](https://cloudsecurityalliance.org/research/publications?term=artificial-intelligence): Whitepapers, reports, and other resources focused on AI security
 
 ## Governance & Risk Management
 
@@ -126,7 +102,7 @@ Comprehensive resources for understanding and managing security risks in artific
 - **GDPR**: Right to explanation for automated decisions
 - **CCPA**: Consumer rights regarding data used in AI models
 - **Fair Lending Laws**: Bias detection in credit/lending AI systems
-- **Industry-Specific**: Healthcare, financial services, and government regulations
+- **EU AI Act**: Various requirements based on risk level of AI system
 
 ## Related Documentation
 
