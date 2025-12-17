@@ -16,6 +16,7 @@ Structured approaches to identifying, analyzing, and quantifying cybersecurity a
 
 ### FAIR Tools & Libraries
 - **pyfair**: FAIR model written in Python for Monte Carlo simulations: https://github.com/Hive-Systems/pyfair
+- **FAIR Simulator**: FAIR Risk Quantification Tool in Python: https://github.com/security-decision-science/security-decision-labs/tree/main/tools/fair-simulator
 
 ## Quantitative Risk Analysis
 
