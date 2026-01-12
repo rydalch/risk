@@ -9,6 +9,8 @@ Open-source and commercial tools for risk assessment, governance, and compliance
 
 ### GRC Platforms
 - **SimpleRisk**: Open Source GRC: https://www.simplerisk.com
+- **Eramba**: Open Source GRC for risk and compliance: https://www.eramba.org
+- **GigaChad GRC**: Open Source GRC platform: https://github.com/grcengineering/gigachad-grc
 - **Free GRC using MS PowerApps**: https://store.securitybagel.io/
 
 ### Risk Visualization & Analysis

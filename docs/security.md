@@ -1,230 +1,252 @@
-# Information Security Testing & Tools
+# Security Tools & Testing Guide
 
-This document provides a comprehensive resource guide for security testing, vulnerability assessment, and penetration testing tools and methodologies. These resources support risk assessment and security control validation activities.
+These are common testing tools and methodologies that support risk assessment and security control validation activities.
 
-## Overview
+## Development Environment
 
-Effective security programs require systematic testing and validation of controls. This guide organizes security tools by assessment phase and objective, supporting:
+### VS Code
+- **Purpose:** Primary code editor for scripts, configurations, and documentation
+- **Use Cases:** Python scripting, PowerShell, Bash, configuration files
+- **Resources:** 
+  - [Download](https://code.visualstudio.com/)
+  - [Getting Started](https://code.visualstudio.com/docs/introvideos/basics)
+- **Key Features:** Extensions for security tools, integrated terminal, Git support
 
-- Vulnerability identification and remediation
-- Penetration testing and threat simulation
-- Security assessment and continuous monitoring
-- Evidence collection for compliance
+### Docker Desktop
+- **Purpose:** Container platform for isolated testing environments
+- **Use Cases:** Running vulnerable apps, tool isolation, lab environments
+- **Resources:** [Download](https://www.docker.com/products/docker-desktop/)
+- **Key Features:** Easy deployment of security tools, reproducible environments
+
+---
+
+## Foundational Tools
+
+### Wireshark
+- **Purpose:** Network protocol analyzer and packet capture tool
+- **Use Cases:** Traffic analysis, protocol debugging, network forensics
+- **Resources:** [Download](https://www.wireshark.org/download/)
+- **Key Features:** Deep packet inspection, protocol decoding, filtering
+- **Lab Focus:** TCP/IP analysis, identifying attacks, protocol understanding
+
+### Nmap
+- **Purpose:** Network discovery and security auditing scanner
+- **Use Cases:** Host discovery, port scanning, service enumeration
+- **Resources:** [Download](https://nmap.org/download.html)
+- **Key Features:** OS detection, script scanning, various scan types
+- **Lab Focus:** Network mapping, vulnerability discovery
+
+### Additional Network Tools
+- **tcpdump**: Command-line packet capture
+- **Angry IP Scanner**: Fast IP address and port scanner
+- **Capsa**: Network analyzer with packet capture
+- **NetScan Tools Pro**: Comprehensive network scanning suite
+
+---
+
+## Network Analysis & Scanning
+
+### Aircrack-ng
+- **Purpose:** WiFi security assessment suite
+- **Use Cases:** WPA/WEP cracking, packet injection, WiFi monitoring
+- **Resources:** [Download](https://www.aircrack-ng.org/)
+- **Key Features:** Capture, attack, testing, and cracking capabilities
+- **Lab Focus:** Wireless security fundamentals
+
+### Hping
+- **Purpose:** TCP/IP packet crafting and manipulation
+- **Use Cases:** Firewall testing, port scanning, DoS testing
+- **Resources:** [Download](http://www.hping.org/download.html)
+- **Key Features:** Custom packet creation, traceroute, file transfer
+
+### Scapy
+- **Purpose:** Python-based packet manipulation library
+- **Use Cases:** Custom protocol testing, packet forging, network discovery
+- **Resources:** [Installation Guide](https://scapy.readthedocs.io/en/latest/installation.html)
+- **Key Features:** Interactive packet crafting, pcap file manipulation
+
+### Wireless Tools
+- **Kismet**: Wireless network detector and analyzer
+- **NetStumbler**: Wireless AP scanner and analyzer
+- **WiFi Pilot**: Wireless network scanner
+
+---
+
+## Web Application Security
+
+### OWASP ZAP (Zed Attack Proxy)
+- **Purpose:** Web application vulnerability scanner
+- **Use Cases:** Automated scanning, manual testing, API testing
+- **Resources:** [Download](https://www.zaproxy.org/)
+- **Key Features:** Intercepting proxy, active/passive scanning, automation
+- **Lab Focus:** OWASP Top 10 vulnerabilities
+
+### Burp Suite Community
+- **Purpose:** Web application security testing platform
+- **Use Cases:** Intercepting proxy, vulnerability scanning, manual testing
+- **Resources:** [Download](https://portswigger.net/burp)
+- **Key Features:** Proxy, scanner, repeater, intruder modules
+- **Lab Focus:** Web application penetration testing
+
+### Nikto
+- **Purpose:** Web server vulnerability scanner
+- **Use Cases:** Configuration issues, outdated software detection
+- **Resources:** [Download](https://cirt.net/Nikto2)
+- **Key Features:** SSL support, multiple output formats, plugin architecture
+
+### Additional Web Tools
+- **SQLMap**: Automated SQL injection testing and exploitation
+- **WebInspect**: Web application scanning
+- **W3AF**: Web attack and audit framework
+- **Fiddler**: HTTP/HTTPS proxy for debugging
+
+---
+
+## Vulnerability Assessment
+
+### Nessus Essentials
+- **Purpose:** Comprehensive vulnerability scanner
+- **Use Cases:** Network vulnerability assessment, compliance scanning
+- **Resources:** [Download](https://www.tenable.com/products/nessus)
+- **Key Features:** CVE detection, configuration auditing, reporting
+- **Lab Focus:** Vulnerability management lifecycle
+
+### OpenVAS
+- **Purpose:** Open-source vulnerability assessment system
+- **Use Cases:** Network vulnerability scanning, reporting
+- **Resources:** [Download](https://www.openvas.org/)
+- **Key Features:** Free alternative to commercial scanners
+
+### Other Scanners
+- **Qualys**: Cloud-based vulnerability and compliance scanning
+- **Rapid7 Nexpose**: Dynamic vulnerability scanning
+- **GFI LanGuard**: Windows network security scanner
+
+---
+
+## Exploitation & Penetration Testing
+
+### Metasploit Framework
+- **Purpose:** Penetration testing and exploitation framework
+- **Use Cases:** Vulnerability exploitation, payload generation, post-exploitation
+- **Resources:** [Download](https://www.metasploit.com/)
+- **Key Features:** Exploit database, auxiliary modules, meterpreter
+- **Lab Focus:** Ethical hacking fundamentals
+
+### Kali Linux
+- **Purpose:** Penetration testing Linux distribution
+- **Use Cases:** Complete pentesting platform with pre-installed tools
+- **Resources:** [Download](https://www.kali.org/downloads/)
+- **Key Features:** 600+ security tools, regular updates, documentation
+- **Lab Focus:** Linux command line, tool integration
+
+### Additional Frameworks
+- **Armitage**: GUI interface for Metasploit
+- **Core Impact**: Commercial penetration testing platform
+- **CANVAS**: Commercial exploitation framework
+- **Mimikatz**: Windows credential dumping tool
+
+---
+
+## Password Security & Cracking
+
+### John the Ripper
+- **Purpose:** Password security auditing and recovery
+- **Use Cases:** Password strength testing, hash cracking
+- **Resources:** 
+  - [Download](https://www.openwall.com/john/)
+  - [macOS Version](https://download.openwall.net/pub/projects/john/contrib/macosx/)
+- **Key Features:** Multiple hash formats, wordlist and brute-force modes
+- **Lab Focus:** Password policy assessment
+
+### Hashcat
+- **Purpose:** Advanced password recovery tool
+- **Use Cases:** GPU-accelerated hash cracking
+- **Resources:** [Download](https://hashcat.net/hashcat/)
+- **Key Features:** GPU acceleration, rule-based attacks
+
+### Other Tools
+- **Ophcrack**: Rainbow table-based password cracker
+- **THC-Hydra**: Login brute-force tool
+- **L0phtCrack**: Windows password auditing
+
+---
+
+## Defensive Security & Monitoring
+
+### Splunk Enterprise (Free License)
+- **Purpose:** Security information and event management (SIEM)
+- **Use Cases:** Log analysis, security monitoring, incident response
+- **Resources:** [Download](https://www.splunk.com/en_us/download.html)
+- **Key Features:** Search processing language, dashboards, alerts
+- **Lab Focus:** Log analysis, correlation, threat hunting
+
+### Semgrep
+- **Purpose:** Static application security testing (SAST)
+- **Use Cases:** Code vulnerability detection, secure coding
+- **Resources:** [Download](https://semgrep.dev/)
+- **Key Features:** Multiple language support, custom rules
+
+### OWASP Threat Dragon
+- **Purpose:** Threat modeling and risk assessment
+- **Use Cases:** Application threat modeling, risk documentation
+- **Resources:** 
+  - [Download](https://www.threatdragon.com/)
+  - [OWASP Threat Modeling Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
+- **Key Features:** Data flow diagrams, threat identification
+
+### Additional Defense Tools
+- **ELK Stack**: Elasticsearch, Logstash, Kibana
+- **Snort/Suricata**: Intrusion detection/prevention systems
+- **ArcSight**: Enterprise SIEM
+
+---
+
+## Learning Environments
+
+### OWASP WebGoat
+- **Purpose:** Deliberately vulnerable web application for learning
+- **Use Cases:** Web security training, OWASP Top 10 practice
+- **Resources:** [Download](https://owasp.org/www-project-webgoat/)
+- **Key Features:** Guided lessons, hints system, progress tracking
+- **Lab Focus:** Web vulnerability exploitation practice
+
+### DVWA (Damn Vulnerable Web Application)
+- **Purpose:** PHP/MySQL vulnerable web application
+- **Use Cases:** Security training, testing tools
+- **Resources:** [Download](https://dvwa.co.uk/)
+- **Key Features:** Adjustable security levels, various vulnerabilities
+
+### Windows/Ubuntu VMs
+- **Purpose:** Operating system environments for testing
+- **Resources:** 
+  - [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
+  - [Ubuntu](https://ubuntu.com/download/desktop)
+  - [Windows Server 2022](https://www.microsoft.com/en-us/windows-server)
+- **Lab Focus:** OS security, Active Directory (Windows Server)
+
+### Other Training Resources
+- **Metasploitable**: Intentional vulnerable Linux VM
+- **Certified Hacker Practice Sites**: Various vulnerable apps
+
+---
+
+## Reconnaissance & Footprinting (Additional)
+
+- **Netcraft**: Website technology and hosting information
+- **Archive.org**: Historical website versions
+- **DNS Tools**: nslookup, Dig, DNS-Digger
+- **WHOIS Tools**: Domain ownership research
+- **Google Hacking Database**: Public search queries for vulnerabilities
+
+## Encryption, Forensics & Evasion
+
+- **Encryption**: TrueCrypt/VeraCrypt, BitLocker, PGP/GnuPG
+- **Forensics**: Autopsy/The Sleuth Kit, FTK, Volatility
+- **Anonymization**: Tor, ProxyChains
 
 ## Standards & Methodologies
 
-### Penetration Testing Standards
-
-- [PTES - Penetration Testing Execution Standard](https://www.pentest-standard.org/) - Comprehensive framework for planning and executing penetration tests
-- [OWASP - Open Web Application Security Project](https://www.owasp.org/) - Web application security standards and best practices
-- [OSSTMM - Open Source Security Testing Methodology Manual](https://www.isecom.org/research.html#content5-9d) - Methodologies for security testing
-
-## Testing & Development Environments
-
-### Vulnerable VMs for Practice
-
-- **Metasploitable** - Linux VM with intentional vulnerabilities for testing tools
-- **WebGoat** - Insecure J2EE web application designed for security training
-- [Certified Hacker Practice Sites](https://certifiedhacker.com/) - Various intentionally vulnerable applications
-- **Wireshark Trace Files** - Network packet captures for analysis practice
-
-## Reconnaissance & Footprinting
-
-### Website & DNS Research
-
-- **Netcraft** - Website technology and hosting information
-- **Archive.org** - Historical website versions and data
-- **WHOIS Tools**: Sam Spade, DNSStuff, DomainTools
-- **DNS Tools**: nslookup, Dig (BIND), DNS-Digger
-- **IP Tools**: ARIN, WherISIP, SpyFu
-
-### Network Reconnaissance
-
-- **Traceroute Tools**: VisualRoute, PingPlotter, Path Analyzer Pro
-- **Web Mirroring**: BlackWidow, Wget, Teleport Pro
-- **Google Hacking**: [Google Hacking Database](http://www.hackersforcharity.org/ghdb)
-
-## Scanning & Enumeration
-
-### Port & Service Scanning
-
-- **Nmap/ZenMap** - Network mapper and port scanner
-- **Angry IP Scanner** - Network IP scanner and pinger
-- **SuperScan** - TCP/UDP port scanner and banner grabber
-- **NetScan Tools Pro** - Comprehensive network scanning suite
-- **Hping** - TCP/IP packet generator and analyzer
-
-### Vulnerability Scanning
-
-- **Nessus** - Leading vulnerability assessment platform
-- **OpenVAS** - Open source vulnerability scanner
-- **Qualys** - Cloud-based vulnerability and compliance scanning
-- **Rapid7 Nexpose** - Dynamic vulnerability scanning and management
-- **GFI LanGuard** - Windows network security scanner
-- **Retina** - Vulnerability and compliance assessment
-- **Nikto** - Web server vulnerability scanner
-
-### Banner Grabbing & Service Detection
-
-- Telnet / NetCat - Manual service identification
-- **Xprobe** - OS fingerprinting tool
-- **THC-AMAP** - Application mapper and banner grabber
-
-## Web Application Testing
-
-### Web Proxies & Interceptors
-
-- **Burp Suite** (Pro) - Web application security testing platform
-- **OWASP ZAP** - Free web security scanner
-- **Paros Proxy** - Web application proxy for security testing
-- **Fiddler** - HTTP/HTTPS proxy for debugging
-
-### Web Vulnerability Scanning
-
-- **WebInspect** - Web application scanning and testing
-- **Nikto** - Web server vulnerability scanner
-- **SQLMap** - SQL injection detection and exploitation
-- **W3AF** - Web attack and audit framework
-
-### SQL Injection Tools
-
-- **SQLMap** - Automated SQL injection testing
-- **SQLGET** - SQL injection exploitation
-- **SQLNinja** - SQL injection penetration testing
-
-## Network & Protocol Analysis
-
-### Packet Capture & Analysis
-
-- **Wireshark** - Network protocol analyzer and packet capture
-- **tcpdump** - Command-line packet capture
-- **Capsa** - Network analyzer with packet capture
-- **Ettercap** - Network sniffing and ARP spoofing
-- **tcpflow** - TCP flow extractor
-
-### Wireless Network Assessment
-
-- **Kismet** - Wireless network detector and analyzer
-- **NetStumbler** - Wireless AP scanner and analyzer
-- **Aircrack/Airodump** - WiFi cracking and packet capture
-- **WiFi Pilot** - Wireless network scanner
-- **Vistumbler** - Wireless network stumbler
-
-## System & Password Testing
-
-### Password Cracking & Testing
-
-- **John the Ripper** - Unix password cracker
-- **Ophcrack** - Rainbow table-based password cracker
-- **Hashcat** - GPU-accelerated password cracker
-- **L0phtCrack** - Windows password auditing
-- **Aircrack** - WEP/WPA password cracking
-- **THC-Hydra** - Login brute-force tool
-
-### Keylogging & Monitoring
-
-- **KeyProwler** - Keylogger tool
-- **Actual Keylogger** - System monitoring
-- **HiJackThis** - Startup and running processes monitor
-- **Process Explorer** - Advanced process viewer
-- **CurrPorts** - TCP/UDP port monitor
-
-## Exploitation & Post-Exploitation
-
-### Exploitation Frameworks
-
-- **Metasploit** - Penetration testing framework
-- **Armitage** - Metasploit GUI interface
-- **Core Impact** - Commercial penetration testing platform
-- **CANVAS** - Commercial exploitation framework
-
-### System Access & Privilege Escalation
-
-- **PSTools** - Windows system administration tools
-- **Netcat** - Network utility for various purposes
-- **Mimikatz** - Windows credential dumping tool
-- **Privilege Escalation Exploits** - OS-specific exploit tools
-
-## Log Analysis & Forensics
-
-### Log Analysis & Monitoring
-
-- **Splunk** - Enterprise log analysis and monitoring platform
-- **ELK Stack** (Elasticsearch, Logstash, Kibana) - Open source log analysis
-- **ArcSight** - Enterprise security information and event management
-- **Syslog Analysis** - Log file parsing and analysis
-
-### Forensics & Incident Response
-
-- **Wireshark** - Network packet forensics
-- **FTK** (Forensic Toolkit) - Digital forensics platform
-- **Encase** - Computer forensics tool
-- **Volatility** - Memory forensics framework
-- **Mandiant Tools** - Malware analysis and incident response
-
-## Encryption & Cryptography
-
-### Encryption Tools
-
-- **TrueCrypt/VeraCrypt** - Disk encryption
-- **BitLocker** - Windows full disk encryption
-- **OpenSSH** - Secure shell and key management
-- **PGP/GnuPG** - Email and file encryption
-
-### Hash & Cryptanalysis
-
-- **HashCalc** - Hash calculation utility
-- **MD5 Hash Generators** - MD5 hash verification
-- **Cryptobench** - Cryptographic benchmarking
-
-## Evasion & Defense
-
-### IDS/IPS & Evasion
-
-- **Snort** - Intrusion detection system
-- **Suricata** - Network threat detection engine
-- **ADMutate** - Polymorphic shellcode generator
-- **NIDSBench** - IDS evasion tool
-
-### Proxy & Anonymization
-
-- **Tor** - Anonymization network
-- **ProxyChains** - Proxy routing tool
-- **Proxifier** - HTTP/HTTPS proxy client
-- **psiphon** - Circumvention tool
-
-## Security Information Resources
-
-### Vulnerability Databases
-
-- [NVD - National Vulnerability Database](https://nvd.nist.gov/) - NIST vulnerability data
-- [SecurityTracker](https://www.securitytracker.com/) - Vulnerability tracking
-- [Exploit Database](https://www.exploit-db.com/) - Public exploits repository
-- [PwnedList](https://pwnedlist.com/) - Compromised account database
-- [SecurityFocus](https://www.securityfocus.com/) - Security research and vulnerability data
-
-
-## Related Resources
-
-- [Threat Modeling](./threat-modeling.md) - Identifying threats for testing
-- [GRC Tools](./tools.md) - Vulnerability management platforms
-- [Control Frameworks](./frameworks.md) - Security control standards
-- [Learning Resources](./learning.md) - Training and certifications
-
-## Responsible Use
-
-**Important**: These tools should only be used:
-
-- On systems you own or have explicit written permission to test
-- For authorized security assessments and penetration tests
-- In authorized training environments and labs
-- In compliance with applicable laws and regulations
-- Following your organization's security policies
-
-Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing.
-
-## Continuous Security Operations
-
-### Continuous Penetration Testing
-
-- [SANS - Offensive Security Operations: Attack Surface Management & Continuous Pen Testing](https://www.sans.org/webcasts/offensive-security-operations-attack-surface-management-continuous-pen-testing/): Webinar covering continuous pentesting approaches and methodologies for ongoing security validation
+- [PTES](https://www.pentest-standard.org/): Penetration Testing Execution Standard
+- [OSSTMM](https://www.isecom.org/research.html#content5-9d): Open Source Security Testing Methodology Manual
+- [NIST NVD](https://nvd.nist.gov/): National Vulnerability Database
