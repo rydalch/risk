@@ -1,54 +1,11 @@
 # Cloud Security
 
-Comprehensive resources for securing cloud infrastructure and deployments across major cloud providers including AWS, Google Cloud Platform, Azure, and hybrid cloud environments.
-
-## Cloud Security Overview
-
-Cloud security requires understanding the shared responsibility model where both cloud providers and organizations share security obligations. This document covers cloud-specific security challenges, best practices, and resources for securing cloud workloads and infrastructure.
-
-## Cloud Security Challenges
-
-### Identity & Access Management
-
-- **Challenge**: Complex permission models and cross-account access can lead to excessive privilege escalation
-- **Mitigation**: Implement least privilege access, use IAM roles instead of keys, enable MFA
-- **Tools**: AWS IAM, GCP Identity & Access Management, Azure RBAC
-
-### Data Protection & Privacy
-
-- **Challenge**: Data at rest and in transit security across distributed environments
-- **Mitigation**: Enforce encryption policies, use managed key services (KMS/HSM), implement DLP
-- **Compliance**: GDPR, HIPAA, PCI-DSS requirements for data location and handling
-
-### Configuration Management & Drift
-
-- **Challenge**: Infrastructure as Code (IaC) misconfigurations and configuration drift
-- **Mitigation**: Use configuration scanning tools, implement policy-as-code, enforce guardrails
-- **Tools**: Terraform validation, CloudFormation templates, AWS Config, Azure Policy
-
-### Network Security & Isolation
-
-- **Challenge**: Securing network boundaries in cloud environments with dynamic infrastructure
-- **Mitigation**: Use VPCs/VNets, security groups, network ACLs, and WAFs
-- **Advanced**: Implement zero-trust networking, service meshes, and micro-segmentation
-
-### Logging, Monitoring & Compliance
-
-- **Challenge**: Aggregating and analyzing logs from distributed cloud services
-- **Mitigation**: Enable cloud logging (CloudTrail, Stackdriver, Diagnostic Logs), use SIEM integration
-- **Compliance**: Maintain audit trails, implement alerting, meet retention requirements
-
-### Container & Kubernetes Security
-
-- **Challenge**: Securing containerized workloads and container orchestration platforms
-- **Mitigation**: Image scanning, runtime security, RBAC, network policies
-- **Tools**: Docker Security, Kubernetes Network Policies, service mesh (Istio, Linkerd)
+Resources for securing cloud infrastructure and deployments across major cloud providers.
 
 ## Cloud Provider Security Resources
 
 ### Amazon Web Services (AWS)
 
-- [AWS Security Best Practices](https://aws.amazon.com/security/best-practices/): Comprehensive security guidance from AWS
 - [AWS Well-Architected Security Pillar](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/): Framework for secure AWS architecture
 - [AWS Security Hub](https://aws.amazon.com/security-hub/): Centralized security findings and compliance monitoring
 - [AWS Identity and Access Management](https://aws.amazon.com/iam/): IAM policies, roles, and permission management
@@ -72,16 +29,9 @@ Cloud security requires understanding the shared responsibility model where both
 
 ### Cloud Security Alliance (CSA)
 
-- [CSA Cloud Controls Matrix](https://cloudsecurityalliance.org/): Comprehensive security control framework for cloud
-- [CSA Cloud Security Guidance](https://cloudsecurityalliance.org/): Best practices and recommendations
-- Mapping to ISO 27001, NIST, and other standards
+- [CSA Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/): Comprehensive security control framework for cloud
+- [CSA Cloud Security Guidance](https://cloudsecurityalliance.org/research/guidance): Security best practices and recommendations and mapping to ISO 27001, NIST, and other standards
 
-### Industry Standards
-
-- **ISO 27001**: Information security management applicable to cloud services
-- **NIST Cybersecurity Framework**: Identifying, protecting, detecting, responding, recovering from cyber attacks
-- **CIS Benchmarks**: Security best practices for cloud platforms and configurations
-- **SOC 2**: Security controls relevant to cloud service organizations
 
 ## Cloud Security Tools & Services
 
@@ -99,13 +49,8 @@ Cloud security requires understanding the shared responsibility model where both
 - Azure Advanced Threat Protection: Behavioral analytics and threat detection
 - [Falco](https://falco.org/): Container runtime security tool
 
-### Cloud Access Security Brokers (CASB)
 
-- [Microsoft Cloud App Security](https://www.microsoft.com/en-us/security/business/cloud-app-security): Cloud application security
-- [Netskope](https://www.netskope.com/): Cloud and web security platform
-- [Zscaler](https://www.zscaler.com/): Cloud-native security platform
-
-## Cloud Security Best Practices
+## Basic Cloud Security Practices
 
 ### Access Control
 
@@ -155,22 +100,6 @@ Cloud security requires understanding the shared responsibility model where both
 - Plan for rapid resource isolation and remediation
 - Coordinate with cloud provider support teams
 
-## Compliance in Cloud Environments
-
-### Compliance Considerations
-
-- **GDPR**: Data residency requirements, data subject rights, data processors
-- **HIPAA**: Encryption, access controls, audit logging for healthcare data
-- **PCI-DSS**: Security requirements for payment card data in cloud
-- **SOC 2**: Control objectives for cloud service providers
-- **ISO 27001**: Information security management system certification
-
-### Compliance Monitoring
-
-- Use cloud provider compliance tools and certifications
-- Implement continuous compliance monitoring and reporting
-- Regular compliance assessments and audits
-- Maintain compliance documentation and evidence
 
 ## Related Documentation
 
