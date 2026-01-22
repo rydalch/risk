@@ -7,14 +7,12 @@ Also see the OWASP Threat Modeling Cheat Sheet: https://cheatsheetseries.owasp.o
 
 ## Threat Actors & Taxonomies
 
-### Intel Threat Agent Library
 - Intel Threat Agent Library (2007): https://www.google.com/search?q=Intel+Threat+Agent+Library
 - Spreadsheet version: https://docs.google.com/spreadsheets/d/1qKne0RNOnwW3IJWgO70yiJOz1VebqT3M9I8Ci4ROEFQ/edit#gid=0
 
-### CRF Threat Taxonomy
-- CRF Threat Taxonomy: https://crfsecure.org/research/crf-threat-taxonomy/
+- Insider Threat Matrix: open framework for computer-enabled insider threat investigations https://insiderthreatmatrix.org/
 
-## MITRE ATT&CK Framework
+- CRF Threat Taxonomy: https://crfsecure.org/research/crf-threat-taxonomy/
 
 - **MITRE ATT&CK**: https://attack.mitre.org/
   - Comprehensive matrix of adversary tactics and techniques based on real-world observations
