@@ -36,6 +36,23 @@ Comprehensive resources for understanding and managing security risks in artific
   - Continuous monitoring and incident response
   - Supply chain security for AI/ML systems
 
+### CSA MAESTRO AI Threat Modeling
+
+[CSA MAESTRO Framework](https://cloudsecurityalliance.org/): Specialized threat modeling methodology for agentic AI systems
+
+  - **MAESTRO** = Multi-Agent Environment, Security, Threat, Risk, and Outcome
+  - Seven-layer approach for agentic AI security:
+    1. Foundation Models
+    2. Data Operations
+    3. Agent Frameworks
+    4. Deployment Infrastructure
+    5. Evaluation and Observability
+    6. Security and Compliance
+    7. Agent Ecosystem
+  - Addresses AI autonomy, emergent behaviors, and multi-agent interactions
+  - Complements traditional frameworks (STRIDE, PASTA, LINDDUN, OCTAVE)
+  - Cross-layer threat analysis for complex AI systems
+
 ## Model Risk Management
 
 ### Federal Reserve SR 11-7 Guidance
@@ -53,6 +70,36 @@ Comprehensive resources for understanding and managing security risks in artific
   - Risk assessment methodologies for AI systems
   - Control evaluation frameworks
   - Audit procedures for algorithm transparency and bias
+
+## Agentic AI Security
+
+### OWASP Top 10 for Agentic AI (2026)
+
+[OWASP Top 10 for Agentic Applications](https://owasp.org/): Critical security risks for autonomous AI systems
+
+  - **ASI01: Agent Goal Hijack**: Manipulation of AI agent objectives through prompt injection, poisoned data, or other methods, causing unintended actions
+  - **ASI02: Tool Misuse and Exploitation**: Agents exploited to misuse legitimate tools for data exfiltration, destructive actions, or other malicious purposes
+  - **ASI03: Identity and Privilege Abuse**: Vulnerabilities in agent identity, delegation, or privilege inheritance leading to unauthorized access escalation
+  - **ASI04: Agentic Supply Chain Vulnerabilities**: Compromised third-party components (agents, tools, models) introducing hidden instructions or unsafe behaviors
+  - **ASI05: Unexpected Code Execution**: Agent-generated or agent-invoked code executing in unforeseen ways, compromising the host environment
+  - **ASI06: Memory and Context Poisoning**: Corruption of persistent agent memory, RAG stores, embeddings, or shared context to influence future actions
+  - **ASI07: Insecure Inter-Agent Communication**: Weaknesses in authentication, integrity, or validation enabling message spoofing and manipulation
+  - **ASI08: Cascading Failures**: Single faults (hallucinations, poisoned memory, compromised tools) propagating across autonomous agents
+  - **ASI09: Human-Agent Trust Exploitation**: Agents exploiting human trust, authority bias, or automation bias to influence decisions or extract information
+  - **ASI10: Rogue Agents**: Agents acting harmfully and deceptively, even when individual actions appear legitimate
+
+### Agentic AI Security Considerations
+
+- Implement robust goal validation and alignment mechanisms
+- Establish strict tool usage policies and permission boundaries
+- Use principle of least privilege for agent identity and access
+- Regularly audit third-party agent components and dependencies
+- Sandbox agent code execution environments
+- Implement integrity checks for agent memory and context stores
+- Secure inter-agent communication with strong authentication
+- Monitor for cascading failures with circuit breakers
+- Design human-in-the-loop controls for sensitive operations
+- Establish detection mechanisms for rogue agent behavior
 
 ## Threats & Vulnerabilities
 
@@ -81,7 +128,6 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ### Academic & Research Resources
 
-- [NIST AI Risk Management Framework](https://www.nist.gov/): Framework for managing risks in AI systems
 - [AI and Security Research](https://arxiv.org/list/cs.CR/recent): Latest research on AI security threats and defenses
 - [Center for AI Safety](https://www.safe.ai/): Research on AI safety and security challenges
 - [MIT AI Risk Initiative](https://airisk.mit.edu/): A comprehensive living database of over 1700 AI risks categorized by their cause and risk domain (broader than just cybersecurity)
@@ -89,13 +135,15 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ## Governance & Risk Management
 
-### AI Risk Management Fundamentals
+### AI Risk Management
 
 - Establish clear ownership and accountability for AI systems
 - Document all assumptions and limitations in model development
 - Implement continuous monitoring for model performance drift
 - Establish incident response procedures for AI failures
 - Regular third-party audits of critical AI systems
+
+- [NIST AI Risk Management Framework](https://www.nist.gov/): Framework for managing risks in AI systems
 
 ### Compliance Considerations
 
