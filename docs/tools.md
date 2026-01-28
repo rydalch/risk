@@ -42,6 +42,10 @@ Open-source and commercial tools for risk assessment, governance, and compliance
 - **ggcal**: Generate calendar plots from dates and fill values: https://github.com/jayjacobs/ggcal
 - **Gradio**: Building modern dashboards with Python: https://towardsdatascience.com/building-a-modern-dashboard-with-python-and-gradio/
 
+## AI-Assisted Security & Code Analysis
+
+- **Trail of Bits Claude Code Skills**: A collection of security-focused skills for Claude Code, including smart contract security, entry point analysis, differential review, static analysis, and more: https://github.com/trailofbits/skills
+
 ## Future Tools
 
 ### Emerging/Planned

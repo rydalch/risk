@@ -82,6 +82,16 @@ Automated generation of NIST SP 800-53 control descriptions and implementation g
 
 **Implementation**: Use in System Authorization Package (SAP) development, continuous assessment, and control tailoring processes.
 
+## AI-Powered Control Mapping
+
+### AI-Control-Mapper
+
+[AI-Control-Mapper](https://github.com/JoshDoesIT/AI-Control-Mapper) is an intelligent n8n workflow that uses AI (Google Gemini embeddings) to automatically map security controls between different compliance frameworks.
+
+- **Capabilities**: Uses semantic similarity to find the best matches between controls from different frameworks.
+- **Technology**: Built on n8n and Google Gemini.
+- **Efficiency**: Significantly reduces the manual effort required for cross-framework mapping and compliance gap analysis.
+
 ## Compliance Automation Strategy
 
 ### Assessment & Planning
