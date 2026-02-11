@@ -8,6 +8,7 @@ Resources for risk data collection, analysis, visualization, and metrics.
 - **DBIR (Data Breach Investigations Report)**: https://www.verizon.com/business/resources/reports/dbir/
 - **How Material is That Hack?**: https://howmaterialisthathack.org/
 - **Cyentia IRIS Risk Retina**: https://www.cyentia.com/services/iris-risk-retina/
+- **IBM Cost of a Data Breach Report**: https://www.ibm.com/reports/data-breach/
 
 ## Data Visualization
 
