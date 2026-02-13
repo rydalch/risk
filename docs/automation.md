@@ -28,7 +28,7 @@ Compliance automation streamlines repetitive compliance tasks, reduces manual ef
 
 ### GEMARA (GRC Engineering Model for Automated Risk Assessment)
 
-[GEMARA](https://github.com/ossf/gemara) provides frameworks and models for automated risk assessment and control evaluation. Developed by the Open Source Security Foundation, it includes:
+[GEMARA](https://github.com/gemaraproj/gemara) provides frameworks and models for automated risk assessment and control evaluation. It includes:
 
 - Risk assessment methodologies
 - Control mapping and inheritance

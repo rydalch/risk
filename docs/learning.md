@@ -27,6 +27,9 @@ Training, certifications, books, courses, and educational resources for risk and
 ### SANS
 - Python 3 Cheat Sheet: https://www.sans.org/blog/sans-cheat-sheet-python-3
 
+### Open Security Training
+- **Interactive Cybersecurity & Privacy Training Modules**: https://github.com/emreugurlu/open-security-training
+
 ## Organizations & Associations
 
 ### ISACA
