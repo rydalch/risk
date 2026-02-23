@@ -9,6 +9,7 @@ Resources for risk data collection, analysis, visualization, and metrics.
 - **How Material is That Hack?**: https://howmaterialisthathack.org/
 - **Cyentia IRIS Risk Retina**: https://www.cyentia.com/services/iris-risk-retina/
 - **IBM Cost of a Data Breach Report**: https://www.ibm.com/reports/data-breach/
+- **CrowdStrike Global Threat Report**: https://www.crowdstrike.com/en-us/global-threat-report/
 
 ## Data Visualization
 
