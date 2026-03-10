@@ -10,6 +10,8 @@ Resources for risk data collection, analysis, visualization, and metrics.
 - **Cyentia IRIS Risk Retina**: https://www.cyentia.com/services/iris-risk-retina/
 - **IBM Cost of a Data Breach Report**: https://www.ibm.com/reports/data-breach/
 - **CrowdStrike Global Threat Report**: https://www.crowdstrike.com/en-us/global-threat-report/
+- **CyberResilience 2025 Claims Report**: https://unlock.cyberresilience.com/hubfs/2025%20Claims%20Report.pdf
+- **Cloudflare 2026 Threat Report**: https://blog.cloudflare.com/2026-threat-report/
 
 ## Data Visualization
 

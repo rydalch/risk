@@ -92,6 +92,12 @@ Automated generation of NIST SP 800-53 control descriptions and implementation g
 - **Technology**: Built on n8n and Google Gemini.
 - **Efficiency**: Significantly reduces the manual effort required for cross-framework mapping and compliance gap analysis.
 
+## AI-Powered Compliance & Security Reviews
+
+### Automated Network Security Control Reviews
+
+[Talking to Network Security Controls: Using MCP and LLMs for Automated Reviews](https://www.joshdoes.it/blog/mcp-llm-nsc-reviews) explores using the Model Context Protocol (MCP) combined with LLMs to automate the review of network security controls (NSC), such as VPC configurations and firewall rules, enabling natural language querying of infrastructure state.
+
 ## Compliance Automation Strategy
 
 ### Assessment & Planning
