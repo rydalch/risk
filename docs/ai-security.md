@@ -132,6 +132,7 @@ Comprehensive resources for understanding and managing security risks in artific
 - [Center for AI Safety](https://www.safe.ai/): Research on AI safety and security challenges
 - [MIT AI Risk Initiative](https://airisk.mit.edu/): A comprehensive living database of over 1700 AI risks categorized by their cause and risk domain (broader than just cybersecurity)
 - [CSA AI Research Publications](https://cloudsecurityalliance.org/research/publications?term=artificial-intelligence): Whitepapers, reports, and other resources focused on AI security
+- [ZeroLeaks: OpenClaw Security Assessment](https://zeroleaks.ai/reports/openclaw-analysis.pdf): Detailed red team analysis of security vulnerabilities in an open-source AI project
 
 ## Governance & Risk Management
 
