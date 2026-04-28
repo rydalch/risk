@@ -53,6 +53,18 @@ Comprehensive resources for understanding and managing security risks in artific
   - Complements traditional frameworks (STRIDE, PASTA, LINDDUN, OCTAVE)
   - Cross-layer threat analysis for complex AI systems
 
+### CoSAI (Coalition for Secure AI)
+
+[CoSAI Official Website](https://www.coalitionforsecureai.org/): An industry-led initiative to provide a collaborative ecosystem for secure AI development.
+- Focuses on developing open standards and best practices for AI security.
+- Provides tools like [CoSAI Wizards](https://billbrietstout.github.io/cosai-wizards/) to help navigate AI security requirements.
+
+### Open Security Architecture (OSA)
+
+[OSA SP-027: Generative AI Application Security Pattern](https://www.opensecurityarchitecture.org/patterns/sp-027/): Architectural pattern for securing generative AI applications.
+- Provides a vendor-neutral framework for AI security controls.
+- Covers data protection, model security, and application integration.
+
 ## Model Risk Management
 
 ### Federal Reserve SR 11-7 Guidance
@@ -133,6 +145,8 @@ Comprehensive resources for understanding and managing security risks in artific
 - [MIT AI Risk Initiative](https://airisk.mit.edu/): A comprehensive living database of over 1700 AI risks categorized by their cause and risk domain (broader than just cybersecurity)
 - [CSA AI Research Publications](https://cloudsecurityalliance.org/research/publications?term=artificial-intelligence): Whitepapers, reports, and other resources focused on AI security
 - [ZeroLeaks: OpenClaw Security Assessment](https://zeroleaks.ai/reports/openclaw-analysis.pdf): Detailed red team analysis of security vulnerabilities in an open-source AI project
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral): Insights into security practices for modern open-source toolchains.
+- [Cisco Foundation Sec-8B](https://blogs.cisco.com/security/foundation-sec-8b-reasoning-first-open-weight-security-reasoning-model): A reasoning-first open-weight security reasoning model for AI.
 
 ## Governance & Risk Management
 
