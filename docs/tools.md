@@ -8,7 +8,6 @@ Open-source and commercial tools for risk assessment, governance, and compliance
 - **Binary Risk Assessment (BRA)**: Structured questions for risk discussion: https://binary.protect.io/
 
 ### GRC Platforms
-- **GigaChad GRC**: A comprehensive, modular, containerized Governance, Risk, and Compliance (GRC) platform built with modern technologies. Manage your entire security program from compliance tracking to risk management, third-party assessments, and external audits.: https://github.com/grcengineering/gigachad-grc
 - **SimpleRisk**: Open Source GRC: https://www.simplerisk.com
 - **Eramba**: Open Source GRC for risk and compliance: https://www.eramba.org
 - **GigaChad GRC**: Open Source GRC platform: https://github.com/grcengineering/gigachad-grc
