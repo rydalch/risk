@@ -106,6 +106,12 @@ Comprehensive resources for understanding and managing security risks in artific
 - Focuses on the unique lifecycle and operational risks of AI agents.
 - Provides practical guidance for risk identification, assessment, and mitigation in agentic workflows.
 
+### Agentic Trust Framework
+
+[Agentic Trust Framework](https://github.com/massivescale-ai/agentic-trust-framework): A framework for establishing trust and security in multi-agent systems.
+- Addresses the complexities of autonomous agent interactions and delegation.
+- Provides a structured approach to agent identity, authorization, and auditability.
+
 ### Agentic AI Security Considerations
 
 - Implement robust goal validation and alignment mechanisms
