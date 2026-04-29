@@ -38,7 +38,7 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ### CSA MAESTRO AI Threat Modeling
 
-[CSA MAESTRO Framework](https://cloudsecurityalliance.org/): Specialized threat modeling methodology for agentic AI systems
+[CSA MAESTRO Framework](https://cloudsecurityalliance.org/blog/2025/02/06/agentic-ai-threat-modeling-framework-maestro): Specialized threat modeling methodology for agentic AI systems ([GitHub Repository](https://github.com/CloudSecurityAlliance/MAESTRO))
 
   - **MAESTRO** = Multi-Agent Environment, Security, Threat, Risk, and Outcome
   - Seven-layer approach for agentic AI security:
@@ -111,6 +111,7 @@ Comprehensive resources for understanding and managing security risks in artific
 [Agentic Trust Framework](https://github.com/massivescale-ai/agentic-trust-framework): A framework for establishing trust and security in multi-agent systems.
 - Addresses the complexities of autonomous agent interactions and delegation.
 - Provides a structured approach to agent identity, authorization, and auditability.
+- Also see: https://cloudsecurityalliance.org/blog/2026/02/02/the-agentic-trust-framework-zero-trust-governance-for-ai-agents/
 
 ### Agentic AI Security Considerations
 
