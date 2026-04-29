@@ -100,6 +100,12 @@ Comprehensive resources for understanding and managing security risks in artific
   - **ASI09: Human-Agent Trust Exploitation**: Agents exploiting human trust, authority bias, or automation bias to influence decisions or extract information
   - **ASI10: Rogue Agents**: Agents acting harmfully and deceptively, even when individual actions appear legitimate
 
+### AARM (Agentic AI Risk Management)
+
+[AARM Framework](https://aarm.dev/): A comprehensive framework specifically designed for managing risks associated with autonomous and agentic AI systems.
+- Focuses on the unique lifecycle and operational risks of AI agents.
+- Provides practical guidance for risk identification, assessment, and mitigation in agentic workflows.
+
 ### Agentic AI Security Considerations
 
 - Implement robust goal validation and alignment mechanisms
