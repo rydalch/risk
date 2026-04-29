@@ -113,6 +113,12 @@ Comprehensive resources for understanding and managing security risks in artific
 - Provides a structured approach to agent identity, authorization, and auditability.
 - Also see: https://cloudsecurityalliance.org/blog/2026/02/02/the-agentic-trust-framework-zero-trust-governance-for-ai-agents/
 
+### Microsoft Agent Governance Toolkit
+
+[Microsoft Agent Governance Toolkit](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents/): Open-source runtime security for AI agents ([GitHub Repository](https://github.com/microsoft/agent-governance-toolkit)).
+- Focuses on enforcing governance policies at runtime.
+- Provides visibility into agent actions and automated policy enforcement.
+
 ### Agentic AI Security Considerations
 
 - Implement robust goal validation and alignment mechanisms
