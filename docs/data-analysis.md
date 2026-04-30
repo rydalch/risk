@@ -13,11 +13,13 @@ Resources for risk data collection, analysis, visualization, and metrics.
 - **CrowdStrike Global Threat Report**: https://www.crowdstrike.com/en-us/global-threat-report/
 - **CyberResilience 2025 Claims Report**: https://unlock.cyberresilience.com/hubfs/2025%20Claims%20Report.pdf
 - **Cloudflare 2026 Threat Report**: https://blog.cloudflare.com/2026-threat-report/
+- **Lumen 2026 Threatscape Report**: https://www.lumen.com/en-us/resources/2026-threat-intelligence-report.htm
 
 ## Data Visualization
 
 ### Libraries & Books
 - **dataviz book**: https://github.com/clauswilke/dataviz
+
 - **glasseye**: Present statistical analysis results in Markdown with D3: https://github.com/coppeliaMLA/glasseye
 - **ggcal**: Generate calendar plots: https://github.com/jayjacobs/ggcal
 - **Building Modern Dashboards with Python and Gradio**: https://towardsdatascience.com/building-a-modern-dashboard-with-python-and-gradio/
