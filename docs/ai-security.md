@@ -119,6 +119,13 @@ Comprehensive resources for understanding and managing security risks in artific
 - Focuses on enforcing governance policies at runtime.
 - Provides visibility into agent actions and automated policy enforcement.
 
+### AIUC-1 (Agentic AI Universal Control)
+
+[AIUC-1 Framework](https://www.aiuc-1.com/): An emerging compliance and assurance framework specifically for AI agents, often described as "SOC 2 for AI agents."
+- Provides operational, testable controls for governing autonomous agent behavior.
+- Covers domains including Data & Privacy, Security, Safety, Reliability, and Accountability.
+- Focuses on continuous, proactive testing to maintain control effectiveness.
+
 ### Agentic AI Security Considerations
 
 - Implement robust goal validation and alignment mechanisms
