@@ -13,6 +13,9 @@ Resources for communicating cyber risk to boards, executives, and governance com
 ### McKinsey
 - Making Risk Management a Value-Added Function in the Boardroom: https://www.mckinsey.com/business-functions/risk/our-insights/making-risk-management-a-value-added-function-in-the-boardroom
 
+### Cybersecurity Research Foundation (CRF)
+- **CRF Business Case** (CRF-BC): Demonstrates why proactive cybersecurity measures are fundamental to daily business operations, helping align cybersecurity with business outcomes: https://crfsecure.org/research/crf-business-case-bc/
+
 ## Enterprise Risk Management Standards
 
 ### COSO (Committee of Sponsoring Organizations)

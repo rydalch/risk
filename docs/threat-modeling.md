@@ -12,7 +12,7 @@ Also see the OWASP Threat Modeling Cheat Sheet: https://cheatsheetseries.owasp.o
 
 - Insider Threat Matrix: open framework for computer-enabled insider threat investigations https://insiderthreatmatrix.org/
 
-- CRF Threat Taxonomy: https://crfsecure.org/research/crf-threat-taxonomy/
+- **CRF Threat Taxonomy** (CRF-TT): A structured classification framework for identifying, categorizing, and reasoning about cybersecurity threats at a governance and programmatic level, supporting multiple threat modeling perspectives (BIA, TAA, TTA, and VA): https://crfsecure.org/research/crf-threat-taxonomy/
 
 - **MITRE ATT&CK**: https://attack.mitre.org/
   - Comprehensive matrix of adversary tactics and techniques based on real-world observations
@@ -49,7 +49,7 @@ Also see the OWASP Threat Modeling Cheat Sheet: https://cheatsheetseries.owasp.o
 - **CISA Known Exploited Vulnerabilities Catalog**: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - **Kenna Security Research**: https://resources.kennasecurity.com/research-reports-2
 
-- ## Threat Intelligence & OSINT
+## Threat Intelligence & OSINT
 
 ### OSINT Resources
 

@@ -30,6 +30,9 @@ Resources for risk data collection, analysis, visualization, and metrics.
 - **Pandashells**: Python data stack to shell: https://github.com/robdmc/pandashells
 - **inetdata**: Download and normalize internet data: https://github.com/hdm/inetdata
 
+### Frameworks
+- **CRF Business Intelligence Model** (CRF-BIM): A structured, repeatable approach for transforming cybersecurity data into actionable visibility and metrics to validate safeguard effectiveness: https://crfsecure.org/research/crf-business-intelligence-model/
+
 ## Learning Data Analysis
 
 ### Python Resources

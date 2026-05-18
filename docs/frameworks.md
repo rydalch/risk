@@ -32,9 +32,11 @@ Control frameworks and security standards provide structured approaches to imple
 
 ## CRF (Cyber Risk Framework)
 
-- CRF Safeguards: https://crfsecure.org/research/crf-safeguards/
-- CRF Maturity Model: https://crfsecure.org/research/crf-maturity-model/
-- CRF Threat Taxonomy: https://crfsecure.org/research/crf-threat-taxonomy/
+- **CRF Governance and Risk Model** (CRF-GRM): A structured framework defining the orchestration layer of a cybersecurity program, organized around a prescriptive seven-step GRC Roadmap: https://crfsecure.org/research/crf-governance-and-risk-model/
+- **CRF Safeguards** (CRF-S): The authoritative library of cybersecurity controls and safeguards, categorized into distinct maturity levels: https://crfsecure.org/research/crf-safeguards/
+- **CRF Maturity Model** (CRF-MM): A conceptual framework that distinguishes program maturity from implementation maturity across five structured levels (Foundational, Hygiene, Governed, Controlled, and Monitored): https://crfsecure.org/research/crf-maturity-model/
+- **CRF Threat Taxonomy** (CRF-TT): A structured classification framework for identifying, categorizing, and reasoning about cybersecurity threats at a governance and programmatic level: https://crfsecure.org/research/crf-threat-taxonomy/
+- **CRF Audit Framework** (CRF-AF): A structured framework that defines how cybersecurity safeguards are independently validated through governed audit and assurance activities: https://crfsecure.org/research/crf-audit-framework/
 
 ## Control Mappings & Alignment
 
@@ -50,7 +52,7 @@ Compare and align controls across different frameworks:
 - **ISACA** - IT Risk Framework: https://www.isaca.org/resources/it-risk
 - **NCSC** - Risk Management Collection: https://www.ncsc.gov.uk/collection/risk-management-collection/essential-topics/variety-risk-information
 
-- ## Software Supply Chain Security
+## Software Supply Chain Security
 
 ### SLSA Framework (Supply Chain Levels for Software Artifacts)
 

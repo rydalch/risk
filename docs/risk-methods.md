@@ -54,7 +54,7 @@ Structured approaches to identifying, analyzing, and quantifying cybersecurity a
 - Calibration Training: http://sethrylan.org/bayesian/
 - Bayesian Probability Fundamentals: https://www.youtube.com/watch?v=GShNozmkYlQ
 
-- ## Quantitative Optimization & Decision Science
+## Quantitative Optimization & Decision Science
 
 ### Improving Risk Management Comparisons and Decisions
 

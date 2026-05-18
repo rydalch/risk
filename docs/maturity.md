@@ -13,8 +13,8 @@ Frameworks for assessing and advancing organizational cybersecurity maturity.
 ### NIST PRISMA (Program Review for Information Security Assistance)
 - Security Maturity Levels: https://csrc.nist.gov/Projects/Program-Review-for-Information-Security-Assistance/Security-Maturity-Levels
 
-### CRF Maturity Model
-- CRF Maturity Model Framework: https://crfsecure.org/research/crf-maturity-model/
+### CRF Maturity Model (CRF-MM)
+- **CRF Maturity Model** (CRF-MM): A conceptual framework that distinguishes program maturity from implementation maturity across five structured levels (Foundational, Hygiene, Governed, Controlled, and Monitored): https://crfsecure.org/research/crf-maturity-model/
 
 ### CMMC (Cybersecurity Maturity Model Certification)
 - DoD model for defense contractors: https://dodcio.defense.gov/CMMC/Model/

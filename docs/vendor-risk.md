@@ -7,6 +7,9 @@ Resources for assessing and managing third-party and supply chain risks.
 ### Vendor Security Questionnaires
 - **VSAQ** (Google): Interactive questionnaire for third-party security assessment: https://github.com/google/vsaq
 
+### Vendor Risk Frameworks
+- **CRF Third-Party Risk Model** (CRF-TPRM): A structured, seven-step approach to governing cybersecurity risk across third-party relationships: https://crfsecure.org/research/crf-third-party-risk-model/
+
 ### Industry-Specific Resources
 - **IU Health Vendor Relations**: Information Security Requirements: https://iuhealth.org/about-our-system/vendor-relations
 
@@ -19,7 +22,7 @@ Resources for assessing and managing third-party and supply chain risks.
 
 - Key Risk Indicators (KRIs) for Cybersecurity: https://www.fairinstitute.org/blog/kris-for-cybersecurity-canaries-in-coal-mines
 
-- ### Enhanced Vendor Risk Assessment Methodologies
+### Enhanced Vendor Risk Assessment Methodologies
 
 **[Enhanced Vendor Risk Assessments - YouTube](https://m.youtube.com/watch?v=BzEL00RtcCU)**
 - Advanced approaches to third-party security assessments
