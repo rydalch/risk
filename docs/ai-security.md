@@ -143,7 +143,7 @@ Comprehensive resources for understanding and managing security risks in artific
 
 ### Common AI Security Threats
 
-- **Prompt Injection**: Crafted inputs designed to manipulate model behavior
+- **Prompt Injection**: Crafted inputs designed to manipulate model behavior (see [CrowdStrike's Taxonomy of Prompt Injection Methods](https://assets.crowdstrike.com/is/content/crowdstrikeinc/Prompt-Injection-Taxonomy-Posterpdf?utm_campaign=aisecurity&utm_medium=emc&utm_source=mkto&utm_content=222426-auto-re1&utm_language=en-us))
 - **Data Poisoning**: Malicious training data affecting model behavior
 - **Model Extraction**: Attacks to steal or replicate proprietary models
 - **Adversarial Examples**: Inputs crafted to cause model misclassification
